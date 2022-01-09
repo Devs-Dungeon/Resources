@@ -8,8 +8,8 @@ Robotics spans multiple scientific and engineering disciplines, so when you want
 
 ## Concepts to Master:
 1. Mechanics
-2. [Electronics](../IoT/Arduino.md) 
-3. [ROS](ROS.md)
-4. [AI](../ML/ML.md)
+2. [Electronics](https://github.com/Devs-Dungeon/Resources/blob/main/IoT/Arduino/README.md) 
+3. [ROS](https://github.com/Devs-Dungeon/Resources/blob/main/Robotics/ROS/README.md)
+4. [AI](https://github.com/Devs-Dungeon/Resources/blob/main/Data%20Science%20%26%20Machine%20Learning/Machine%20Learning/README.md)
 5. [Linear Algebra and Geometry](https://www.youtube.com/watch?v=B0XUInfFsx0&list=PLDbD5BHnNiFal0gF-gwwcBUAcBkTOAjwl)
 6. [DSA in Python](https://interactivepython.org/runestone/static/pythonds/index.html)
