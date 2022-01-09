@@ -1,5 +1,3 @@
-**[Back](/README.md/)**
-
 # YouTube Channels
 
 [Top 50 YouTube Channels to Follow](#50-top-youtube-channels)
