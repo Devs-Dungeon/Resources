@@ -56,22 +56,27 @@
 
 - [**Git and GitHub**](https://github.com/Devs-Dungeon/Resources/tree/main/Git%20%26%20GitHub): Resources page on using Git and GitHub.
 
+- [**Hacking**](https://github.com/Devs-Dungeon/Resources/tree/main/Hacking): Complete list of Hacking resources.
 
+- [**IQ Tests And Aptitude Tests**](https://github.com/Devs-Dungeon/Resources/tree/main/IQ%20Tests%20And%20Aptitude%20Tests): PDFs & list of sites for Aptitude Preparation for placements.
 
+- [**IoT**](https://github.com/Devs-Dungeon/Resources/tree/main/IoT): Detailed explaination on IoT with all resources on getting started & project ideas along with resources on Arduino & RaspberryPi.
 
-- 
+- [**Marketing**](https://github.com/Devs-Dungeon/Resources/tree/main/Marketing): Deep dive into Digital Marketing with all the resources.
 
-- [**Practice Resources**](PracticeResources.md): A list of exercises and gamified resources for web development.
+- [**Mathematics**](https://github.com/Devs-Dungeon/Resources/tree/main/Mathematics): A list of resources on different mathematical topics like Calculus, Mathematical Modelling, Probability and Statistics along with Cheat Sheets.
 
-- [**Programming Books**](Programming_Books.md): Featuring a list of insightful programming books, both free and paid versions.
+- [**OOPS & OS**](https://github.com/Devs-Dungeon/Resources/tree/main/OOPS%20%26%20Operating%20Systems): A list of resources on Object Oriented Programming (OOPs) & Operating Systems (OS).
 
-- [**Python Resources**](Python.md): A list of resources for learning Python.
+- [**Programming Languages**](https://github.com/Devs-Dungeon/Resources/tree/main/Programming%20Languages): A list of resources on all the programming languages like Arduino, C, C++, C#, Python, Java, JavaScript, HTML, CSS, PHP, SQL, etc. along with Books & Practice Resources on it.
+  - [01.Books](https://github.com/Devs-Dungeon/Resources/tree/main/Programming%20Languages/01.Books)
+  - [02.Practice Resources](https://github.com/Devs-Dungeon/Resources/tree/main/Programming%20Languages/02.Practice%20Resources)
 
-- [**Raspberry Pi**](RaspberryPi.md): Resources for the Raspberry Pi.
+- [**Robotics**](https://github.com/Devs-Dungeon/Resources/tree/main/Robotics): A list of resources on Robotics & ROS.
 
-- [**Search Engine Optimization**](SearchEngineOptimization.md): A list of resources for learning Search Engine Optimization(SEO).
+- [**Search Engine Optimization**](https://github.com/Devs-Dungeon/Resources/tree/main/SEO): A list of resources for learning Search Engine Optimization(SEO).
 
-- [**Unix**](Unix.md): Resources for Unix systems (Linux, MacOS, etc.).
+- [**Unix**](https://github.com/Devs-Dungeon/Resources/tree/main/Unix): Resources for Unix systems (Linux, MacOS, etc.).
 
 - [**Web Design Resources**](WebDesignResources.md): A page of resources for web design.
 
