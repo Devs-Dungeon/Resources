@@ -1,4 +1,3 @@
-**[Back](/README.md/)**
 # Contributors' Guide
 
 💪👍 First off, thanks for taking the time to contribute, you are amazing! 👍💪
