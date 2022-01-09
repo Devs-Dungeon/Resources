@@ -1,10 +1,8 @@
-**[Back](/README.md/)**
-
 # Coding for Kids
 
 ## Encouraging Key Skills for Life
 
-**Helping children to think logically**, and to systematically find their way through problems, to solutions, is an incredibly reawrding experience.
+**Helping children to think logically**, and to systematically find their way through problems, to solutions, is an incredibly rewarding experience.
 
 Encouraging and assisting your children as they learn to code equips them with valuable, lifelong skills.
 
