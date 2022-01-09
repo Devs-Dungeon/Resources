@@ -23,10 +23,10 @@ This is a growing list of **resources** for learning and improving as a develope
 
 2. New to open source contributions? we've got you covered: [**Contributing to Github**](Contributing_to_GitHub.md)
     
-3. Fork this Repository [**here**](https://github.com/zero-to-mastery/resources/fork)
+3. Fork this Repository [**here**](https://github.com/Devs-Dungeon/Resources/fork)
 
 4. Clone the forked Repository <br>
-    `git clone https://github.com/Your-GitHub-Username/resources.git`
+    `git clone https://github.com/Your-GitHub-Username/Resources.git`
 
 5. Open the cloned directory in your Code Editor.
 
@@ -47,18 +47,18 @@ This is a growing list of **resources** for learning and improving as a develope
 
     `- [mmtuts](https://www.youtube.com/user/TheCharmefis/featured): **_mmtuts_** (a.k.a MultiMedia Tutorials) aims to provide tutorials spanning the gamut of programming, video editing/production, animation, and graphic design.`
 
-4. If you want to create a new category for your resources, kindly [**open an issue**](https://github.com/zero-to-mastery/resources/issues) to let the project maintainers know of this new category before creating one.
+4. If you want to create a new category for your resources, kindly [**open an issue**](https://github.com/Devs-Dungeon/Resources/issues) to let the project maintainers know of this new category before creating one.
 
 5. Open a **pull request**, with a short descriptive `branch name` and `commit messages` 
 
 
 ## Submitting a Fix
 
-If you ever noticed a bug or anything worth fixing, feel free to [**open an issue**](https://github.com/zero-to-mastery/resources/issues) with enough details of the bug, steps to replicate it and screenshots if possible. 
+If you ever noticed a bug or anything worth fixing, feel free to [**open an issue**](https://github.com/Devs-Dungeon/Resources/issues) with enough details of the bug, steps to replicate it and screenshots if possible. 
 
 ## Proposing New Features
 
-Have some new exciting features you'd like to add? Let our maintainers know first. [**Open an issue**](https://github.com/zero-to-mastery/resources/issues) describing this new feature and why you think it should be included!
+Have some new exciting features you'd like to add? Let our maintainers know first. [**Open an issue**](https://github.com/Devs-Dungeon/Resources/issues) describing this new feature and why you think it should be included!
 
 ## Helpful Resources
 
