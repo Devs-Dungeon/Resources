@@ -1,5 +1,3 @@
-**[Back](/README.md/)**
-
 # Coding for Kids
 
 ## Encouraging Key Skills for Life
