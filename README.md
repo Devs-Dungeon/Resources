@@ -3,22 +3,36 @@
 ## Table of Contents
 
 - [**01-Link to Bootcamps, Platforms, Tools etc**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc): Miscellaneous links to Bootcamps, Podcasts, Tools, etc.
+ - [**Articles**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc/Articles): List of articles on development.
+ - [**Bootcamps**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc/Bootcamps): List of no upfront fee Coding Bootcamps.
+ - [**Podcasts**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc/Podcasts): A range of podcasts covering topics like coding, design, accessibility, JavaScript, and Mindset/Self-Development.
+ 
 - [**02-How to Contribute to this Repo**](https://github.com/Devs-Dungeon/Resources/tree/main/02-How%20to%20Contribute%20to%20this%20Repo): Want to contribute to this repo? Check it out to know how!
+- 
 - [**03-Coding for Kids**](https://github.com/Devs-Dungeon/Resources/blob/main/03-Coding%20for%20Kids/README.md): Encouraging skills for life.
+- 
 - [**04-YT Channels for Dev**](https://github.com/Devs-Dungeon/Resources/blob/main/04-YT%20Channels%20for%20Dev/README.md): Best YT channels for programming, development, etc.
+- 
 - [**05-Best Free Courses**](https://github.com/Devs-Dungeon/Resources/tree/main/05-Best%20Free%20Courses): All top learning courses for free.
+- 
 - [**06-Hackathons, Events & Competitions**](https://github.com/Devs-Dungeon/Resources/tree/main/06-Hackathons%2C%20Events%20%26%20Competitions): Details of all top Hackathons organized annually. 
-- [**07-Interview Coding](https://github.com/Devs-Dungeon/Resources/tree/main/07-Interview%20Coding): All you need to know about how to ace an interview.
+- 
+- [**07-Interview Coding](https://github.com/Devs-Dungeon/Resources/tree/main/07-Interview%20Coding): A page of resources about preparing for the job market & how to ace an interview.
+- 
 - [**08-Internships & Conferences**](https://github.com/Devs-Dungeon/Resources/tree/main/08-Internships%20%26%20Conferences): Details on Research programs, Internships & Conferences.
+- 
 - [**09-Projects**](https://github.com/Devs-Dungeon/Resources/tree/main/09-Projects): List of projects on every domain.
+- 
 - [**10-Student Benefits & Programs**](https://github.com/Devs-Dungeon/Resources/tree/main/10-Student%20Benefits%20%26%20Programs): Details on all CA programs, Student benefits & packs, Fellowship programs, Scholarships etc.
+- 
 - [**11-Open Source Programs**](https://github.com/Devs-Dungeon/Resources/tree/main/11-Open%20Source%20Programs): List of all Open-Source & Startup programs.
+
 
 ### Domains:  
 
 - [**API**](https://github.com/Devs-Dungeon/Resources/tree/main/API): A list of resources for learning how to use APIs.
 
-- [**App-Development**](https://github.com/Devs-Dungeon/Resources/tree/main/App-Development): A list of resources for Mobile App Development.
+- [**App-Development**](https://github.com/Devs-Dungeon/Resources/tree/main/App-Development): A curated list of useful resources for mobile app development (for Android, iOS, Windows, or any other mobile system)
 
 - [**Augmented Reality (AR)**](https://github.com/Devs-Dungeon/Resources/tree/main/Augmented%20Reality%20(AR)): A complete list of resources on AR.
 
@@ -38,33 +52,14 @@
 
 - [**Design & UI**](https://github.com/Devs-Dungeon/Resources/tree/main/Design%20%26%20UI): A complete list of resources on Design & UI from stock photos, web templates, CSS, frameworks, UI libraries, tools and much more.
 
-- [**Angular Resources**](Angular.md): A list of resources for learning Angular.
+- [**Game Development**](https://github.com/Devs-Dungeon/Resources/tree/main/Game%20Development): A page which lists out the resources which helps you go from zero to mastery in game development.
 
-- [**Arduino**](Arduino.md): A list of resources for the Arduino micro-controller.
+- [**Git and GitHub**](https://github.com/Devs-Dungeon/Resources/tree/main/Git%20%26%20GitHub): Resources page on using Git and GitHub.
 
-- [**Articles**](DevelopmentArticles.md): General articles page on web development.
 
-- [**CSS Resources**](CSSResources.md): A list of resources for learning CSS.
 
-- [**Cheat Sheets**](cheatSheets.md): For those looking for the quick-and-dirty of how to do things, or if you simply forgot something, look no further!
 
-- [**Cloud**](Cloud.md): Cloud Learning Resources to kickstart your career.
-
-- [**Free Online Courses**](FreeOnlineCourses.md): Free to attend online courses, including [MOOCs (massive open online courses)](https://en.wikipedia.org/wiki/Massive_open_online_course).
-
-- [**Game Development Resources**](GameDev.md): A page which lists out the resources which helps you go from zero to mastery in game development.
-
-- [**General Resources for Learning Web Development**](generalResources.md): A page with mostly free resources for learning web development and coding in general.
-
-- [**Git and GitHub**](Using_Git_and_GitHub.md): Resources page on using Git and GitHub.
-
-- [**Interviewing for Coding Jobs**](HowtoInterviewforCodeJobs.md): A page of resources about preparing for the job market.
-
-- [**JavaScript Resources**](JavaScript.md): A list of resources for learning JavaScript.
-
-- [**Mobile App Development**](MobileAppDevelopment.md): A curated list of useful resources for mobile app development (for Android, iOS, Windows, or any other mobile system
-
-- [**Podcasts**](Podcasts.md): A range of podcasts covering topics like coding, design, accessibility, JavaScript, and Mindset/Self-Development.
+- 
 
 - [**Practice Resources**](PracticeResources.md): A list of exercises and gamified resources for web development.
 
@@ -81,6 +76,8 @@
 - [**Web Design Resources**](WebDesignResources.md): A page of resources for web design.
 
 - [**Web Development Tools**](WebDevTools.md): A page listing a number of free web development tools.
+
+- [**Web-Development**](generalResources.md): A page with mostly free resources for learning web development and coding in general.
 
 - [**YouTube Channels**](YouTubeChannels.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
 
