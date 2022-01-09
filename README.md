@@ -7,10 +7,18 @@
 - [**03-Coding for Kids**](https://github.com/Devs-Dungeon/Resources/blob/main/03-Coding%20for%20Kids/README.md): Encouraging skills for life.
 - [**04-YT Channels for Dev**](https://github.com/Devs-Dungeon/Resources/blob/main/04-YT%20Channels%20for%20Dev/README.md): Best YT channels for programming, development, etc.
 - [**05-Best Free Courses**](https://github.com/Devs-Dungeon/Resources/tree/main/05-Best%20Free%20Courses): All top learning courses for free.
+- [**06-Hackathons, Events & Competitions**](https://github.com/Devs-Dungeon/Resources/tree/main/06-Hackathons%2C%20Events%20%26%20Competitions): Details of all top Hackathons organized annually. 
+- [**07-Interview Coding](https://github.com/Devs-Dungeon/Resources/tree/main/07-Interview%20Coding): All you need to know about how to ace an interview.
+- [**08-Internships & Conferences**](https://github.com/Devs-Dungeon/Resources/tree/main/08-Internships%20%26%20Conferences): Details on Research programs, Internships & Conferences.
+- [**09-Projects**](https://github.com/Devs-Dungeon/Resources/tree/main/09-Projects): List of projects on every domain.
+- [**10-Student Benefits & Programs**](https://github.com/Devs-Dungeon/Resources/tree/main/10-Student%20Benefits%20%26%20Programs): Details on all CA programs, Student benefits & packs, Fellowship programs, Scholarships etc.
+- [**11-Open Source Programs**](https://github.com/Devs-Dungeon/Resources/tree/main/11-Open%20Source%20Programs): List of all Open-Source & Startup programs.
 
 ### Domains:  
 
-- [**API**](API.md): A list of resources for learning how to use APIs.
+- [**API**](https://github.com/Devs-Dungeon/Resources/tree/main/API): A list of resources for learning how to use APIs.
+
+- [**Android-Development**](https://github.com/Devs-Dungeon/Resources/tree/main/Android-Development): 
 
 - [**Algorithms & Data Structures**](AlgorithmsDataStructures.md): Resources for tackling algorithms.
 
