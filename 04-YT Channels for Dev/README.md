@@ -9,9 +9,9 @@
      - [To 10 in Business](#114-top-10-in-business)
      - [Top 10 in Finance](#115-top-10-in-finance)
 
-# 11. Top 50 YouTube Channels to Follow
+# Top 50 YouTube Channels to Follow
 
-## 11.1 Top 10 in Technology
+## Top 10 in Technology
 |Sr. No. | Channel | No. of Subscribers |
 | --- | ------------- | ----- |
 |1 | [MIT OpenCourseWare](https://www.youtube.com/user/MIT/about) | 2.1M |
@@ -27,7 +27,7 @@
 
 ---
 
-## 11.2 Top 10 in Startup
+## Top 10 in Startup
 |Sr. No. | Channel | No. of Subscribers |
 | --- | -------------- | ------ |
 |1 | [TED](https://www.youtube.com/user/TEDtalksDirector/about) | 15M |
@@ -43,7 +43,7 @@
 
 ---
 
-## 11.3 Top 10 in Design
+## Top 10 in Design
 |Sr. No. | Channel | No. of Subscribers |
 | --- | -------------- | ----- |
 |1 | [tutvid](https://www.youtube.com/user/tutvid/about) | 936K |
@@ -59,7 +59,7 @@
 
 ---
 
-## 11.4 Top 10 in Business
+## Top 10 in Business
 |Sr. No. | Channel | No. of Subscribers |
 | --- | -------------- | ----- |
 |1 | [Business Insider](https://www.youtube.com/user/businessinsider/about) | 2.09M |
@@ -75,7 +75,7 @@
 
 ---
 
-## 11.5 Top 10 in Finance
+## Top 10 in Finance
 |Sr. No. | Channel | No. of Subscribers |
 | --- | -------------- | ----- |
 |1 | [Bloomberg TV Markets and Finance](https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/about) | 413K |
