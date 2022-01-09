@@ -1,0 +1,29 @@
+- **HTML5 and CSS3**
+
+    - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp) :baby:
+    - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
+    - [Intro to HTML and CSS | Udacity](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
+    - [Write quicker HTML5 and CSS 3 | Learn Code Online](https://courses.learncodeonline.in/learn/emmet-course?)
+    - [Flexbox Interactive](https://codepen.io/enxaneta/full/adLPwv)
+    - [freeCodeCamp](https://www.freecodecamp.org/)
+    - [HTML & CSS Catalog | Codecademy](https://www.codecademy.com/catalog/language/html-css)
+    - [Interneting is Hard](https://internetingishard.com/html-and-css/)
+    - [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+    - [CSS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+    - [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
+    - [The Odin Project](https://www.theodinproject.com/)
+    - [HTML Dog Tutorials](http://www.htmldog.com/guides/)
+    - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
+    - [CSS Grid](https://cssgrid.io/)
+    - [CSS Flexbox | Wes Bos](https://flexbox.io/)
+    - [CSS-The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) (**Udemy Paid**) *Good for beginners*
+    - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
+    - [flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
+    - [Flexbox Froggy | CSS Learning Game](https://flexboxfroggy.com/)
+    - [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
+    - [CSS Reference: A Visual CSS Cheat Sheet](https://cssreference.io/) *Good for beginners*
+    - [HTML Reference: A Visual HTML Cheat Sheet](https://htmlreference.io/) *Good for beginners*
+    - [Learn to Code HTML & CSS: Shay Howe ](https://learn.shayhowe.com/html-css/)
+    - [BitDegree-Learn HTML](https://bitdegree.org/learn/html-basics)
+    - [BitDegree-Learn CSS](https://bitdegree.org/learn/css-basics)
+    - [CSS Grid Garden Game](https://cssgridgarden.com/)

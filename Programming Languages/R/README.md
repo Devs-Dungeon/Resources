@@ -1,0 +1,11 @@
+## R Language
+- [RStudio](https://www.rstudio.com/online-learning/)
+- [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
+- [R-Bloggers](https://www.r-bloggers.com/)
+- [Introduction to Data Science by Rafael A. Irizarry](https://rafalab.github.io/dsbook/)
+- [R for Data Science by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz/)
+- [Swirl](https://swirlstats.com/students.html)
+- [Hands-On Programming with R by Garrett Grolemund](https://rstudio-education.github.io/hopr/)
+- [Introduction to Statistical Learning with R ](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) 
+- [Advanced R Programming ](https://englianhu.files.wordpress.com/2016/05/advanced-r.pdf)
+- [R for Dummies](http://sgpwe.izt.uam.mx/files/users/uami/gma/R_for_dummies.pdf)

@@ -1,0 +1,28 @@
+sieve of Eratosthenes
+Goldbach's Conjecture
+Binomial Coefficient
+Catalan Numbers
+Euclid's Lemma
+sieve of Eratosthenes complexity
+Modular Arithmetic
+Modular Multiplicative Inverse
+Number of Balanced BTs (binary trees)
+GCD
+Euclid Algorithm
+Modulo Inverse
+Divisors of Factorials
+Modular Exponentiation
+Matrix Exponentiation
+Chinese Remainder Theorem
+Pollard's Rho Alogrithm
+Legendre's formula
+fermet's little Theorem
+Wilson's Theorem
+Euler's Totient Function
+LCM
+Segmented Sieve
+Convex Hull
+Fenwick Tree
+Coordinate Compression
+
+Game Theory (personal Preference)
