@@ -3,28 +3,28 @@
 ## Table of Contents
 
 - [**01-Link to Bootcamps, Platforms, Tools etc**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc): Miscellaneous links to Bootcamps, Podcasts, Tools, etc.
- - [**Articles**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc/Articles): List of articles on development.
- - [**Bootcamps**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc/Bootcamps): List of no upfront fee Coding Bootcamps.
- - [**Podcasts**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc/Podcasts): A range of podcasts covering topics like coding, design, accessibility, JavaScript, and Mindset/Self-Development.
+  - [**Articles**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc/Articles): List of articles on development.
+  - [**Bootcamps**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc/Bootcamps): List of no upfront fee Coding Bootcamps.
+  - [**Podcasts**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc/Podcasts): A range of podcasts covering topics like coding, design, accessibility, JavaScript, and Mindset/Self-Development.
  
 - [**02-How to Contribute to this Repo**](https://github.com/Devs-Dungeon/Resources/tree/main/02-How%20to%20Contribute%20to%20this%20Repo): Want to contribute to this repo? Check it out to know how!
-- 
+
 - [**03-Coding for Kids**](https://github.com/Devs-Dungeon/Resources/blob/main/03-Coding%20for%20Kids/README.md): Encouraging skills for life.
-- 
+
 - [**04-YT Channels for Dev**](https://github.com/Devs-Dungeon/Resources/blob/main/04-YT%20Channels%20for%20Dev/README.md): Best YT channels for programming, development, etc.
-- 
+
 - [**05-Best Free Courses**](https://github.com/Devs-Dungeon/Resources/tree/main/05-Best%20Free%20Courses): All top learning courses for free.
-- 
+
 - [**06-Hackathons, Events & Competitions**](https://github.com/Devs-Dungeon/Resources/tree/main/06-Hackathons%2C%20Events%20%26%20Competitions): Details of all top Hackathons organized annually. 
-- 
+
 - [**07-Interview Coding](https://github.com/Devs-Dungeon/Resources/tree/main/07-Interview%20Coding): A page of resources about preparing for the job market & how to ace an interview.
-- 
+
 - [**08-Internships & Conferences**](https://github.com/Devs-Dungeon/Resources/tree/main/08-Internships%20%26%20Conferences): Details on Research programs, Internships & Conferences.
-- 
+
 - [**09-Projects**](https://github.com/Devs-Dungeon/Resources/tree/main/09-Projects): List of projects on every domain.
-- 
+
 - [**10-Student Benefits & Programs**](https://github.com/Devs-Dungeon/Resources/tree/main/10-Student%20Benefits%20%26%20Programs): Details on all CA programs, Student benefits & packs, Fellowship programs, Scholarships etc.
-- 
+
 - [**11-Open Source Programs**](https://github.com/Devs-Dungeon/Resources/tree/main/11-Open%20Source%20Programs): List of all Open-Source & Startup programs.
 
 
