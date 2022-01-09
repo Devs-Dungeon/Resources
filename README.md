@@ -18,9 +18,25 @@
 
 - [**API**](https://github.com/Devs-Dungeon/Resources/tree/main/API): A list of resources for learning how to use APIs.
 
-- [**Android-Development**](https://github.com/Devs-Dungeon/Resources/tree/main/Android-Development): 
+- [**App-Development**](https://github.com/Devs-Dungeon/Resources/tree/main/App-Development): A list of resources for Mobile App Development.
 
-- [**Algorithms & Data Structures**](AlgorithmsDataStructures.md): Resources for tackling algorithms.
+- [**Augmented Reality (AR)**](https://github.com/Devs-Dungeon/Resources/tree/main/Augmented%20Reality%20(AR)): A complete list of resources on AR.
+
+- [**Big Data**](https://github.com/Devs-Dungeon/Resources/tree/main/Big-Data): A list of complete resources on Big Data.
+
+- [**BlockChain**](https://github.com/Devs-Dungeon/Resources/tree/main/BlockChain): A list of complete resources on BlockChain.
+
+- [**Cheat Sheets**](https://github.com/Devs-Dungeon/Resources/tree/main/Cheat%20Sheets): Cheat Sheets on various topics.
+
+- [**Cloud Computing**](https://github.com/Devs-Dungeon/Resources/tree/main/Cloud%20Computing): A list of resources on all cloud computing resources.
+
+- [**DBMS**](https://github.com/Devs-Dungeon/Resources/tree/main/DBMS): A complete list of resources on Database Management System.
+
+- [**Data Science & Machine Learning**](https://github.com/Devs-Dungeon/Resources/tree/main/Data%20Science%20%26%20Machine%20Learning): A complete list of resources on Data Science, Machine Learning, Deep Learning with all Cheat Sheets, Documentations & Research Papers.
+
+- [**Data Structures & Algorithms**](https://github.com/Devs-Dungeon/Resources/tree/main/Data%20Structures%20%26%20Algorithms): A list of complete resources on DSA containing notes, cheat sheets, online platforms, books & pdfs.
+
+- [**Design & UI**](https://github.com/Devs-Dungeon/Resources/tree/main/Design%20%26%20UI): A complete list of resources on Design & UI from stock photos, web templates, CSS, frameworks, UI libraries, tools and much more.
 
 - [**Angular Resources**](Angular.md): A list of resources for learning Angular.
 
