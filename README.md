@@ -1,5 +1,9 @@
 # Useful Resources for Developers
 
+[![Discord](https://img.shields.io/discord/865937470118297640.svg?logo=discord&colorB=5865F2)](https://discord.gg/ceMXzhfaka)
+
+To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/Devs-Dungeon/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
+
 ## 📍 Table of Contents
 
 - [**01-Link to Bootcamps, Platforms, Tools etc**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc): Miscellaneous links to Bootcamps, Podcasts, Tools, etc.
