@@ -1,5 +1,3 @@
-**[Back](/README.md/)**
-
 # Cheat Sheets
 
 - [HTTP Status Codes](https://www.abstractapi.com/http-status-codes): An overview of every HTTP Status Code and what they mean.
