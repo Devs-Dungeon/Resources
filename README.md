@@ -1,6 +1,6 @@
 # Useful Resources for Developers
 
-## Table of Contents
+## 📍 Table of Contents
 
 - [**01-Link to Bootcamps, Platforms, Tools etc**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc): Miscellaneous links to Bootcamps, Podcasts, Tools, etc.
   - [**Articles**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc/Articles): List of articles on development.
@@ -11,7 +11,7 @@
 
 - [**03-Coding for Kids**](https://github.com/Devs-Dungeon/Resources/blob/main/03-Coding%20for%20Kids/README.md): Encouraging skills for life.
 
-- [**04-YT Channels for Dev**](https://github.com/Devs-Dungeon/Resources/blob/main/04-YT%20Channels%20for%20Dev/README.md): Best YT channels for programming, development, etc.
+- [**04-YT Channels for Dev**](https://github.com/Devs-Dungeon/Resources/blob/main/04-YT%20Channels%20for%20Dev/README.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
 
 - [**05-Best Free Courses**](https://github.com/Devs-Dungeon/Resources/tree/main/05-Best%20Free%20Courses): All top learning courses for free.
 
@@ -28,7 +28,7 @@
 - [**11-Open Source Programs**](https://github.com/Devs-Dungeon/Resources/tree/main/11-Open%20Source%20Programs): List of all Open-Source & Startup programs.
 
 
-### Domains:  
+#### Domains:  
 
 - [**API**](https://github.com/Devs-Dungeon/Resources/tree/main/API): A list of resources for learning how to use APIs.
 
@@ -43,6 +43,8 @@
 - [**Cheat Sheets**](https://github.com/Devs-Dungeon/Resources/tree/main/Cheat%20Sheets): Cheat Sheets on various topics.
 
 - [**Cloud Computing**](https://github.com/Devs-Dungeon/Resources/tree/main/Cloud%20Computing): A list of resources on all cloud computing resources.
+
+- [**Cyber Security**](https://github.com/Devs-Dungeon/Resources/tree/main/Cyber%20Security): Complete list of resources on Cyber Security, Mobile App Security & Website Security.
 
 - [**DBMS**](https://github.com/Devs-Dungeon/Resources/tree/main/DBMS): A complete list of resources on Database Management System.
 
@@ -78,18 +80,24 @@
 
 - [**Unix**](https://github.com/Devs-Dungeon/Resources/tree/main/Unix): Resources for Unix systems (Linux, MacOS, etc.).
 
-- [**Web Design Resources**](WebDesignResources.md): A page of resources for web design.
+- [**Web-Development**](https://github.com/Devs-Dungeon/Resources/tree/main/Web-Development): A page with all free resources for learning web-automation, web-design, web-dev, web-performance, web-working and coding in general.
 
-- [**Web Development Tools**](WebDevTools.md): A page listing a number of free web development tools.
+## ⚡ Contributing
 
-- [**Web-Development**](generalResources.md): A page with mostly free resources for learning web development and coding in general.
+- You are always welcome to contribute to this project, kindly visit our [**Contributor's Guide**](https://github.com/Devs-Dungeon/Resources/tree/main/02-How%20to%20Contribute%20to%20this%20Repo) before opening a pull request.
 
-- [**YouTube Channels**](YouTubeChannels.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
+- First time contributing to open source? Awesome! Read more about the process in [**Contributing to GitHub**](https://github.com/Devs-Dungeon/Resources/tree/main/02-How%20to%20Contribute%20to%20this%20Repo).
 
-## Contributing
+- [**List of Contributors**](https://github.com/Devs-Dungeon/Resources/blob/main/02-How%20to%20Contribute%20to%20this%20Repo/CONTRIBUTORS.md): A page showing the GitHub usernames of all who have contributed to this open-source project! Make sure to add yourself and submit a pull request if you've contributed.
 
-- You are always welcome to contribute to this project, kindly visit our [**Contributor's Guide**](https://github.com/zero-to-mastery/resources/blob/master/CONTRIBUTING.md) before opening a pull request.
+## 🔗 Connect with Us
+[<img align="left" alt="Subham | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />][mail]
+[<img align="left" alt="Subham | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />][linkedin]
+[<img align="left" alt="Subham | Discord" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />][twitter]
+[<img align="left" alt="Subham | Discord" width="92px" src="https://img.shields.io/badge/-Discord-000000?logo=discord&Color=0A66C2&style=flat-square" />][discord]
 
-- First time contributing to open source? Awesome! Read more about the process in [**Contributing to GitHub**](https://github.com/zero-to-mastery/resources/blob/master/Contributing_to_GitHub.md).
+[mail]: mailto:devs.dungeon.community@gmail.com
+[linkedin]: https://www.linkedin.com/company/devs-dungeon/
+[twitter]: https://twitter.com/devs_dungeon
+[discord]: https://discord.gg/ceMXzhfaka
 
-- [**List of Contributors**](CONTRIBUTORS.md): A page showing the GitHub usernames of all who have contributed to this open-source project! Make sure to add yourself and submit a pull request if you've contributed.
