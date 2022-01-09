@@ -1,8 +1,14 @@
 # Useful Resources for Developers
 
-A list of student-collated resources deemed to be useful for every developer and categorised. Andrei has a hand-picked list of his favourite resources which you can find [here](https://zerotomastery.io/resources?utm_source=github&utm_medium=resources).
-
 ## Table of Contents
+
+- [**01-Link to Bootcamps, Platforms, Tools etc**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc): Miscellaneous links to Bootcamps, Podcasts, Tools, etc.
+- [**02-How to Contribute to this Repo**](https://github.com/Devs-Dungeon/Resources/tree/main/02-How%20to%20Contribute%20to%20this%20Repo): Want to contribute to this repo? Check it out to know how!
+- [**03-Coding for Kids**](https://github.com/Devs-Dungeon/Resources/blob/main/03-Coding%20for%20Kids/README.md): Encouraging skills for life.
+- [**04-YT Channels for Dev**](https://github.com/Devs-Dungeon/Resources/blob/main/04-YT%20Channels%20for%20Dev/README.md): Best YT channels for programming, development, etc.
+- [**05-Best Free Courses**](https://github.com/Devs-Dungeon/Resources/tree/main/05-Best%20Free%20Courses): All top learning courses for free.
+
+### Domains:  
 
 - [**API**](API.md): A list of resources for learning how to use APIs.
 
