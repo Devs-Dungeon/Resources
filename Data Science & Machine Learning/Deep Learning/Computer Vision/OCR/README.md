@@ -4,7 +4,7 @@
 - [**Deep Learning Based OCR for Text in the Wild**](https://nanonets.com/blog/deep-learning-ocr/)
 - [**Building Custom Deep Learning Based OCR models**](https://nanonets.com/blog/attention-ocr-for-text-recogntion/)
 
-## Top 122 Deep Learning Ocr Open Source Projects on Github
+## Top Deep Learning Ocr Open Source Projects on Github
 
 - [**Tesseract.js**](https://github.com/naptha/tesseract.js): Pure Javascript OCR for more than 100 Languages
 - [**Easyocr**](https://github.com/JaidedAI/EasyOCR): Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
