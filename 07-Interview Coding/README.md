@@ -1,3 +1,13 @@
+[![Discord](https://img.shields.io/discord/865937470118297640.svg?logo=discord&colorB=5865F2)](https://discord.gg/ceMXzhfaka)
+
+To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/Devs-Dungeon/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
+
+➤ If you find this **REPOSITORY** helpful, then do give it a `🌟` by pressing the topmost-right button 🤗
+
+➤ To save a copy of this **REPOSITORY** to your own GitHub, click on <a href="https://github.com/Devs-Dungeon/Resources/edit/main/README.md"><kbd><b>Fork</b></kbd></a> on the top right of your screen 🤗
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 # Interviewing for Coding Jobs
 
 - [5 Things You Need to Know in a Programming Interview](https://medium.freecodecamp.org/the-most-important-things-you-need-to-know-for-a-programming-interview-3429ac2454b): Zhia Chong - a Twitter Software Engineer who possesses a wealth of experience as both an interviewer and interviewee - provides several tips on preparing for programming interviews as well as recommending a solid list of tools and resources (like [Cracking The Coding Interview](https://www.amazon.com/gp/product/0984782850/ref=as_li_tl?ie=UTF8&tag=zrecommended-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0984782850&linkId=86b9ff78cbd7423ea3b98d3aca1995c3)).
