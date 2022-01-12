@@ -4,6 +4,12 @@
 
 To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/Devs-Dungeon/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
 
+➤ If you find this **REPOSITORY** helpful, then do give it a `🌟` by pressing the topmost-right button 🤗
+
+➤ To save a copy of this **REPOSITORY** to your own GitHub, click on <a href="https://github.com/Devs-Dungeon/Resources/edit/main/README.md"><kbd><b>Fork</b></kbd></a> on the top right of your screen 🤗
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 ## 📍 Table of Contents
 
 - [**01-Link to Bootcamps, Platforms, Tools etc**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc): Miscellaneous links to Bootcamps, Podcasts, Tools, etc.
@@ -86,6 +92,8 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 
 - [**Web-Development**](https://github.com/Devs-Dungeon/Resources/tree/main/Web-Development): A page with all free resources for learning web-automation, web-design, web-dev, web-performance, web-working and coding in general.
 
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 ## ⚡ Contributing
 
 - You are always welcome to contribute to this project, kindly visit our [**Contributor's Guide**](https://github.com/Devs-Dungeon/Resources/tree/main/02-How%20to%20Contribute%20to%20this%20Repo) before opening a pull request.
@@ -93,6 +101,8 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 - First time contributing to open source? Awesome! Read more about the process in [**Contributing to GitHub**](https://github.com/Devs-Dungeon/Resources/tree/main/02-How%20to%20Contribute%20to%20this%20Repo).
 
 - [**List of Contributors**](https://github.com/Devs-Dungeon/Resources/blob/main/02-How%20to%20Contribute%20to%20this%20Repo/CONTRIBUTORS.md): A page showing the GitHub usernames of all who have contributed to this open-source project! Make sure to add yourself and submit a pull request if you've contributed.
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🔗 Connect with Us
 [<img align="left" alt="Subham | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />][mail]
