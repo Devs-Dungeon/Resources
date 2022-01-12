@@ -1,18 +1,17 @@
-<h1 align="center">
- 	<br>
- 	  <img width="200" src="https://github.com/Devs-Dungeon/.github/blob/main/profile/profile%20pic.jpg" alt="awesome">
- 	<br>
-</h1>
+[![Discord](https://img.shields.io/discord/865937470118297640.svg?logo=discord&colorB=5865F2)](https://discord.gg/ceMXzhfaka)
+
+To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/Devs-Dungeon/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
+
+➤ If you find this **REPOSITORY** helpful, then do give it a `🌟` by pressing the topmost-right button 🤗
+
+➤ To save a copy of this **REPOSITORY** to your own GitHub, click on <a href="https://github.com/Devs-Dungeon/Resources/edit/main/README.md"><kbd><b>Fork</b></kbd></a> on the top right of your screen 🤗
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
 # Hacking Resources ![DEVs Dungeon](https://img.shields.io/badge/devs-dungeon-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
 
 A collection of hacking / penetration testing resources to make you better!
-
-**Let's make it the biggest resource repository for our community.**
-
-**You are welcome to fork and [contribute](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/contributing.md#contribution-guidelines).**
-
-We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/tools.md) list, come and contribute
 
 ## Table of Contents
  * [Learning the Skills](#learning-the-skills)
