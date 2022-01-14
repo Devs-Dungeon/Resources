@@ -1,0 +1,6 @@
+Question
+
+Make a script that prints out letters of English alphabet from a to z, one letter per line in the terminal.
+
+
+Hint: If you're lazy to type down all the letters, you can use the ascii_lowercase property of the string module

@@ -1,0 +1,6 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2016-12-30_20-10-48-28f6175bba572061c6b2340ae6b25614/3%20points.png"></figure><p><strong>Exercise for reference</strong>: 
+</p><p>Create a script that let the user type in a search term and then the program opens the browser and searches the term on Google.</p><p><strong>Answer: </strong></p><pre class="prettyprint linenums">import webbrowser
+
+query = input("Input your query: ")
+webbrowser.open("https://google.com/search?q=%s" % query)
+</pre><p><strong>Explanation</strong>:</p><p>We're using <code>webbrowser</code>  here which is a standard library that is used to open a web browser. </p><p>First, we're getting the search term stored in variable <code>query</code> via the <code>input</code>  function. You need to first do a manual search on Google and observe how Google will construct the URL. Depending on where you are in the world the URL may be different, but the above URL should work everywhere. </p><p>You will see that the URL contains your search term at the end. Therefore, we concatenate the first part of the URL with the search term we get from <code>input</code> .</p>

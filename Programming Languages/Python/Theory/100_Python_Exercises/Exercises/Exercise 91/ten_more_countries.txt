@@ -1,0 +1,11 @@
+ID,Country,Area
+51,Spain,499401
+52,Turkmenistan,488100
+53,Cameroon,469440
+54,Papua New Guinea,451709
+55,Uzbekistan,447400
+56,Morocco,446301
+57,Iraq,433970
+58,Sweden,411621
+59,Paraguay,397301
+60,Japan,394744

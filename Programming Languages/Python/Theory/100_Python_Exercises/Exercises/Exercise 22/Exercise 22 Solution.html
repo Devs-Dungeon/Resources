@@ -1,0 +1,5 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2017-01-03_12-19-03-29d09699f5562d4dc3fa1ec5a5d5ab82/2%20points.png"></figure><p><strong>Exercise for reference</strong>: </p><p>Create a dictionary of keys a, b, c where each key has as value a list from 1 to 10, 11 to 20, and 21 to 30 respectively. Then print out the dictionary in a nice format.</p><p><strong>Answer</strong>: </p><pre class="prettyprint linenums">from pprint import pprint
+
+d = {"a":list(range(1, 11)), "b":list(range(11, 21)), "c":list(range(21, 31))}
+pprint(d)
+</pre><p><strong>Explanation</strong>: </p><p>We're using ranges here to construct the lists. We're also using the built-in Python <code>pprint </code> module which is used to print out well formatted views of datatypes in Python.</p>

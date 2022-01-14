@@ -1,0 +1,139 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com/redactor/2016-12-23_23-49-30-960f7c6abb98b100c58031851c208db1/3%20points.png"></figure>
+
+<p><strong><u>Exercise for reference</u>: </strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Please plot the data of <a href="http://www.pythonhow.com/data/sampledata.txt" rel="nofollow" target="_blank">this</a> file into a graph of x and y axis.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><u><strong>Answer 1:</strong><strong> </strong></u></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">import pandas
+import pylab as plt
+
+data = pandas.read_csv("http://www.pythonhow.com/data/sampledata.txt")
+data.plot(x='x', y='y', kind='scatter')
+plt.show()
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation 1</u></strong>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>This solution uses the pylab library which needs to be installed with <code>pip install pylab</code> . The solution has few lines of code and uses the integrated pandas <code>plot</code> method. Instead of <code>scatter</code> , you can specify other types of plots such as <code>line</code> , <code>bar</code> , etc.</p>
+
+
+
+<p><u><strong>Answer 2:</strong><strong> </strong></u></p>
+
+
+
+
+
+<pre class="prettyprint linenums">from bokeh.plotting import figure
+from bokeh.io import output_file, show
+import pandas
+
+output_file("bokeh_plot.html")
+data = pandas.read_csv("http://www.pythonhow.com/data/sampledata.txt")
+f = figure()
+f.circle(x=data["x"], y=data["y"])
+
+show(f)
+</pre>
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation 2</u></strong>:</p>
+
+
+
+
+
+<p>This solution uses the Bokeh library which needs to be installed with <code>pip install bokeh</code> . In contrast to Pylab, Bokeh produces web based visualizations. In this example we are plotting the data as circles, but other geometries can be used such as <code>line</code> , <code>triangle</code> , etc.</p>

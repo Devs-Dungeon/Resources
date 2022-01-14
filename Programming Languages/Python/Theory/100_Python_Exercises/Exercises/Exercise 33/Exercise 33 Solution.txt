@@ -1,0 +1,2 @@
+The output of given program will be 2 because local variable inside the function has more priority than
+global variable outside the function.

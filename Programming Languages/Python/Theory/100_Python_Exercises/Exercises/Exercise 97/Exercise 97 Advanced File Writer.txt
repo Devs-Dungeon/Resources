@@ -1,0 +1,3 @@
+#Create a program that asks the user to submit text repeatedly
+#The program saves the changes when user enter SAVE, but not close it
+#The program saves the changes and closes when the user submits CLOSE

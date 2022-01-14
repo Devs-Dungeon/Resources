@@ -1,0 +1,129 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com/redactor/2016-12-23_23-49-30-960f7c6abb98b100c58031851c208db1/3%20points.png"></figure>
+
+<p><strong><u>Exercise for reference</u>:&nbsp;</strong>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Please concatenate&nbsp;<a href="http://www.pythonhow.com/data/sampledata.txt" target="_blank"  rel="nofollow">this</a>&nbsp;file with&nbsp;<a href="http://pythonhow.com/data/sampledata_x_2.txt" target="_blank"  rel="nofollow">this</a>&nbsp;one to a single text file. The content of the output file should look like in the expected output.<br></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><u><strong>Answer 1:</strong><strong>&nbsp;</strong></u></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">import pandas
+
+data1 = pandas.read_csv("http://www.pythonhow.com/data/sampledata.txt")
+data2 = pandas.read_csv("sampledata_x_2.txt")
+data12 = pandas.concat([data1, data2])
+data12.to_csv("sampledata12.txt", index=None)
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation 1</u></strong>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Again we are using pandas to load the data into Python. Then in line 5, we use the <code>concat </code>&nbsp;method. The method expects as input a list of dataframe objects to be concatenated. Lastly, in line 6, we export the data to a new text file.</p>
+
+
+
+
+
+
+
+
+
+<p><strong></strong></p><p><u><b>Answer 2:</b></u><br></p><pre class="prettyprint linenums">import io
+import pandas
+import requests
+
+r = requests.get("http://www.pythonhow.com/data/sampledata.txt")
+c = r.content
+data1 = pandas.read_csv(io.StringIO(c.decode('utf-8')))
+data2 = pandas.read_csv("sampledata_x_2.txt")
+data12 = pandas.concat([data1, data2])
+data12.to_csv("sampledata12.txt", index=None)</pre>
+
+
+
+<p><u><b>Explanation&nbsp;2:</b></u></p>
+
+<p>In answer 1 we passed the file url directly into&nbsp;<code>read_csv</code>&nbsp;. The&nbsp;<code>read_csv</code>&nbsp; method uses the&nbsp;<code>urllib</code>&nbsp; library internally to download the file. In case of errors with urllib you can use the&nbsp;more powerful library&nbsp;<code>requests</code>&nbsp;library as we did above.<br></p>

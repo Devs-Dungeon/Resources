@@ -1,0 +1,80 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2017-01-03_14-36-40-5d10b9921d3345e63b6578fd7b465ce2/2%20points.png"></figure>
+
+<p><strong><u>Exercise for reference</u>: </strong></p>
+
+
+
+<p>Please create an empty file (manually as you normally create Python files) and name it <code>requests.py</code> . Make sure the file has that name exactly.
+</p>
+
+<p>Then just paste the following code in the file (manually)</p><pre class="prettyprint linenums">import requests
+
+r = requests.get("http://www.pythonhow.com")
+print(r.text[:100])
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Executing the script will throw an error. Please fix that error so that you get the expected output and explain why the error happened.</p>
+
+
+
+
+
+
+
+
+
+<p><u><strong>Answer:</strong><strong> </strong></u></p>
+
+
+
+
+
+
+
+
+
+<p>Rename the file name from <code>requests.py</code>  to something else.</p>
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation</u></strong>:</p>
+
+
+
+
+
+
+
+
+
+
+
+<p>In the code Python is actually referring to the script name which is <code>requests </code> and it doesn't find a get attribute for that name. Script names load in the current namespace. They are actually stored in the<code> __name__</code>  variable. You could try to print that variable out and you would see that it prints your script name. Therefore you should not name your scripts under library names. </p>

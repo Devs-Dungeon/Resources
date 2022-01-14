@@ -1,0 +1,53 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2016-12-26_08-44-55-fc88dcc67f573fec06fe090e23f9f498/3%20points.png"></figure>
+
+<p><strong><u>Exercise for reference</u>: </strong></p>
+
+
+
+
+
+<p>Use Python to calculate the distance in kilometers between Jupiter and Sun on January 1, 1230. </p>
+
+
+
+
+
+
+
+<p><u><strong>Answer:</strong><strong> </strong></u></p>
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">import ephem
+jupiter = ephem.Jupiter()
+jupiter.compute('1230/1/1')
+distance_au_units = jupiter.sun_distance
+distance_km = distance_au_units * 149597870.691
+print(distance_km)
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation</u></strong>:</p>
+
+
+
+
+
+
+
+<p>This solution required some internet research to find out about the <code>ephem</code>  library which is used for astronomy computations. The library can be installed with <code>pip install ephem</code>, but if that doesn't work on Windows then download a precompiled version from <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pyephem" rel="nofollow" target="_blank">here</a> and install it again with pip like <code>pip install ephem‑3.7.6.0‑cp36‑cp36m‑win_amd64.whl</code> </p><p>In the ephem <a href="https://pypi.python.org/pypi/ephem/" rel="nofollow" target="_blank">webpage</a> you can find an example to start off. The above solution was developed based on that example. </p>

@@ -1,0 +1,115 @@
+<p><strong><u></u></strong></p>
+
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2016-12-30_20-02-03-f9b996351d7b2fa626ec02ee6ed77d08/4%20points.png"></figure>
+
+
+
+<p><strong><u>Exercise for reference</u>: </strong><br></p>
+
+
+
+<p>Create a program that asks the user to enter a new password and check that the submitted password should contain at least one number, one uppercase letter and at least 5 characters. If the conditions are met, print out the reason why pointing to the specific condition/s that has not been satisfied.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><u><strong>Answer:</strong><strong> </strong></u></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">while True:
+    notes = []
+    psw = input("Enter password: ")
+    if not any(i.isdigit() for i in psw):
+        notes.append("You need at least one number")
+    if not any(i.isupper() for i in psw):
+        notes.append("You need at least one uppercase letter")
+    if len(psw) &lt; 5:
+        notes.append("You need at least 5 characters")
+    if len(notes) == 0:
+        print("Password is fine")
+        break
+    else:
+        print("Please check the following: ")
+        for note in notes:
+            print(note)
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation</u></strong>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Again, we're using a <code>while</code> loop. In the first <code>if</code>  condition we check if there is any number in the submitted password and if there is we append a message string to the <code>notes</code>  list. Then, we check the next conditions in the next two <code>if</code>  conditionals and keep adding messages to <code>notes</code> . We also check if the length of <code>notes</code>  is zero, because it if is that means there were no message added there which means the password is fine. Lastly, under <code>else</code> , we iterate through the constructed list and print out its items (i.e messages).</p>

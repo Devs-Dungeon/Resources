@@ -1,0 +1,228 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2017-01-03_12-01-12-708f26e0baa4ca12615fcc936b9c873c/2%20points.png"></figure>
+
+<p><strong><u>Exercise for reference</u>: </strong></p>
+
+
+
+<p>Complete the script so that it removes duplicate items from list <code>a</code> .<br></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Answer 1</u>: </strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">a = ["1", 1, "1", 2]
+a = list(set(a))
+print(a)
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation 1</u>: </strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>We used a <code>set </code> function to convert the list to a set which would intermediately produce <code>{'1', 1, 2}</code>  with no duplicates because set objects cannot contain duplicates. Then using <code>list </code> we converted the set back to a list. The drawback here is that the original order of the items is lost. If you need to preserve the order you may want to use the solution in <strong>Answer 2</strong> below.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Answer 2</u>:</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">from collections import OrderedDict
+a = ["1", 1, "1", 2]
+a = list(OrderedDict.fromkeys(a))
+print(a)
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation 2</u>:</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Ordered dictionaries are another data type in Python that unlike sets and normal dictionaries they preserve the order of the items. Here <code>OrderedDict.fromkeys(a)</code>  would produce an <code>OrderedDict</code>  like <code>[('1', None), (1, None), (2, None)]</code> . Then we would convert that <code>OrderedDict </code> to a list.</p>
+
+<p><strong><u>Answer 3:</u></strong></p>
+
+<pre class="prettyprint linenums">a = ["1", 1, "1", 2]
+b = []
+for i in a:
+    if i not in b:
+        b.append(i)</pre>
+
+
+
+
+
+<p><u><strong>Explanation 3:</strong></u></p>
+
+<p>This is another solution that would preserve the original order. We go through all items of the original list and append them to the new list if they have not been appended before. The downside of this is the operation can take a lot of time if the list is large as we need to access both lists and also perform a conditional in each iteration.</p>

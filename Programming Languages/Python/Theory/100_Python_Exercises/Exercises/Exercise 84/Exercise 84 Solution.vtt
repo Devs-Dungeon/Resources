@@ -1,0 +1,149 @@
+WEBVTT
+
+0
+00:00.700 --> 00:03.270
+Hi, this is the solution to exercise 84
+
+1
+00:03.360 --> 00:05.880
+and this was the output.
+
+2
+00:05.950 --> 00:15.700
+So let me close that. And this is the code and let me show how I came up with this code because to be honest I'm
+
+3
+00:15.720 --> 00:23.310
+not very familiar with the pyglet library but if you follow the standard procedure of researching about a library
+
+4
+00:23.310 --> 00:26.370
+you should be able to come up with some sample code.
+
+5
+00:26.370 --> 00:29.660
+So let me show you how would you do that.
+
+6
+00:30.300 --> 00:31.950
+A simple search for pyglet
+
+7
+00:35.760 --> 00:43.240
+should show you the pyglet the home page but also the pyglet home page in the Python Package Index website.
+
+8
+00:43.260 --> 00:45.440
+I prefer this. This is more standard.
+
+9
+00:45.750 --> 00:53.910
+So you have, here you have all the packages for Python listed in this website and they all have their
+
+10
+00:54.520 --> 00:55.920
+home pages in there.
+
+11
+00:55.940 --> 01:01.640
+This is the home page of pyglet. Sometimes you can find some sample code right here in this page.
+
+12
+01:01.650 --> 01:07.380
+But if you don't find it, than you have to look for that documentation link such as this one in here.
+
+13
+01:10.850 --> 01:13.970
+And then you have various links for the documentation.
+
+14
+01:13.990 --> 01:14.920
+And the one you want
+
+15
+01:14.940 --> 01:24.770
+in this case is a programming guide and this is the guide for people who are starting with pyglet.
+
+16
+01:25.410 --> 01:28.690
+Pyglet is a library for games, to build games
+
+17
+01:28.690 --> 01:38.480
+by the way. I mentioned earlier and yet here you'd want to go to writing a pyglet application and
+
+18
+01:38.750 --> 01:44.510
+you have various applications such as the hello world application image viewer way you can show an image
+
+19
+01:45.310 --> 01:46.830
+in a pyglet window.
+
+20
+01:46.970 --> 01:55.760
+But this is although the one we want and this is exactly the same code that builds this program that I showed
+
+21
+01:55.770 --> 01:56.630
+you.
+
+22
+01:57.360 --> 02:02.780
+So this is importing pyglet and you need to install pyglet, so if you see that when you run
+
+23
+02:02.780 --> 02:08.720
+the code, you get an import error. That means that you need to install pyglet with pip install pyglet.
+
+24
+02:09.230 --> 02:17.440
+And then you want to create a window object with this code and after that what you want to display
+
+25
+02:17.450 --> 02:23.330
+is some text. To display text it says that you create a label object like this label here.
+
+26
+02:23.350 --> 02:29.450
+And here are, these are the parameters. I guess they are quite clear.
+
+27
+02:30.200 --> 02:39.020
+So it's putting the text in the center of the window and then you have this decorator which is attached
+
+28
+02:39.090 --> 02:46.220
+to these objects so at window events, so when an event happensr which in this case means when the window
+
+29
+02:46.220 --> 02:49.360
+is opened. The windows should clear first
+
+30
+02:49.430 --> 02:54.950
+if it has something, and then a label should be drawn in the window.
+
+31
+02:55.130 --> 02:59.490
+And then finally you have pyglet.app.run.
+
+32
+02:59.570 --> 03:01.960
+So these will run the app.
+
+33
+03:01.970 --> 03:06.240
+Yeah, this is exactly the same code as mine in here.
+
+34
+03:06.260 --> 03:13.190
+So the purpose I included this application was to show you how to do some research for code samples
+
+35
+03:13.610 --> 03:15.280
+on a new library.
+
+36
+03:15.350 --> 03:17.640
+I hope you enjoyed this, and I'll talk to you later.

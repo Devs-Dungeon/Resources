@@ -1,0 +1,3 @@
+# Please print the script in the expected output
+
+# Today is Wednesday, 22 December, 2021

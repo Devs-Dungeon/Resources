@@ -1,0 +1,52 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2016-12-23_23-49-30-960f7c6abb98b100c58031851c208db1/3%20points.png"></figure>
+
+<p><strong><u>Exercise for reference</u>: </strong><br></p>
+
+
+
+
+
+<p>Create a script that reads <a href="http://www.pythonhow.com/data/sampledata.txt" rel="nofollow" target="_blank">this</a> file, multiplies its values by two and saves the output in a new text file.</p>
+
+
+
+
+
+
+
+<p><u><strong>Answer:</strong><strong> </strong></u></p>
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">import pandas
+
+data = pandas.read_csv("http://www.pythonhow.com/data/sampledata.txt")
+data_2 = data * 2
+data_2.to_csv("sampledata_x_2.txt", index=None)
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation</u></strong>:</p>
+
+
+
+
+
+
+
+<p>As you can see this can be done with <code>pandas</code>  in four lines of code. We use <code>read_csv</code>  to create a pandas dataframe object which is like a table with data. Then we multiply this table by two and then export the calculated data to a text file in our local directory.</p>

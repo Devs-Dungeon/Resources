@@ -1,0 +1,73 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2017-01-03_12-48-15-71ba9b6c9af54d29c6fabdcfa42726ea/Easy.png"></figure>
+
+<p><strong><u>Question</u></strong>: The following script throws a <code>NameError</code>  in the last line saying that <code>c</code>  is not defined. Please fix the <strong>function</strong> so that there is no error and the  last line is able to print out the value of <code>c</code>  (i.e. <code>1</code> ).</p>
+
+
+
+
+
+<pre class="prettyprint linenums">def foo(): 
+    c = 1 
+    return c 
+foo() 
+print(c)</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Expected output:</u></strong><br></p>
+
+
+
+
+
+
+
+
+
+<p><code>1</code> <br></p>
+
+
+
+
+
+
+
+
+
+
+
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2017-01-03_12-48-26-6ec9a394cbf8c99148655632ac831a39/Arrrows.bmp"></figure>
+
+
+
+<p><strong><u>Hint</u> 1:</strong> The reason of the error is that <code>c</code>  exists only inside the function namespace. In other words, <code>c</code>  is a local variable.<br></p>
+
+
+
+
+
+
+
+
+
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2017-01-03_12-49-00-988e8b5449873197bed1afe555ee5c53/Arrrows.bmp"></figure><p><strong><u>Hint</u> 2:</strong> Simply declare <code>c</code>  as a global variable inside the function.<br></p>

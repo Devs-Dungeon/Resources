@@ -1,0 +1,74 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2016-12-25_22-05-00-9b1c9006674d6d61ca6fa838859f8b7c/2%20points.png"></figure>
+
+<p><strong><u>Exercise for reference</u>:&nbsp;</strong></p>
+
+
+
+
+
+
+
+<p>Create a script that asks the user to enter their age and the script calculates the user's year of birth and prints it out in a string like in the expected output. Please make sure you generate the current year dynamically.</p>
+
+
+
+
+
+
+
+
+
+<p><u><strong>Answer:</strong><strong>&nbsp;</strong></u></p>
+
+
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">from datetime import datetime
+
+age = int(input("What's your age? "))
+year_birth = datetime.now().year - age
+print("We think you were born back in %s" % year_birth)
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation</u></strong>:</p>
+
+
+
+
+
+
+
+
+
+<p>We're getting user input and we are converting&nbsp;it to an integer since <code>input </code>&nbsp;loads everything as a string. Then we produce the current year dynamically with <code>datetime.now().year</code>&nbsp; and we subtract the age from that to find out the year of birth. Lastly, in line 5, we use string formatting to produce a string with the year inside it.</p>
+
+
+
+
+
+
+
+
+
+<p><br></p>

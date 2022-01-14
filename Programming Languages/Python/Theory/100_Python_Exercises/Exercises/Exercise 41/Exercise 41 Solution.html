@@ -1,0 +1,56 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2017-01-03_13-06-39-031b8150504251a258ff70be2db5b30a/2%20points.png"></figure><p><strong><u>Exercise for reference</u>: </strong></p>
+
+<p>Create a script that generates a text file with all letters of English alphabet inside it, one letter per line.</p>
+
+
+
+
+
+
+
+
+
+<p><u><strong>Answer:</strong></u><strong> </strong></p>
+
+
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">import string
+
+with open("letters.txt", "w") as file:
+    for letter in string.ascii_lowercase:
+        file.write(letter + "\n")
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation</u></strong>:</p>
+
+
+
+
+
+
+
+
+
+<p>The <code>ascii_lowercase </code>  property of the <code>string </code> module is quite helpful here to generate a string of all letters. Then we create a file and while the file is open, we iterate through the string and apply the write method in each iteration to write the letters in the text file. We are also appending <code>\n</code>  to each letter which is a special character that creates break lines. That makes sure to separate the letters in different lines.</p>
