@@ -1,0 +1,7 @@
+Write a script that extracts letters from the 26 text files and put the letters in a list.
+
+Expected Output :
+
+["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
+
+Hint: Use glob.glob to create a list of file paths and then iterate through that list reading the content of each file.

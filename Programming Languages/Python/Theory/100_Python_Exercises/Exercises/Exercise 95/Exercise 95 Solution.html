@@ -1,0 +1,28 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2016-12-27_10-15-39-8597de0b0b98af857bf44b8da7f9370a/3%20points.png"></figure>
+
+<p><strong><u>Exercise for reference</u>: </strong></p>
+
+<p>Create a program that asks the user to input values separated by commas and stores those values in a text file, each value in a separate line.</p>
+
+
+
+<p><u><strong>Answer:</strong><strong> </strong></u></p>
+
+
+
+<pre class="prettyprint linenums">line = input("Enter values: ")
+line_list = line.split(",")
+with open("user_data_commas.txt", "a+") as file:
+    for i in line_list:
+        file.write(i + "\n")
+</pre>
+
+
+
+
+
+<p><strong><u>Explanation</u></strong>:</p>
+
+
+
+<p>In line 1 we ask the user to input the values and in line 2 we create a list containing the user submitted values. Then, in line 3 we open a file in <code>a+</code>  mode (read and append). If there's no file with such name, it will be created. Then in line 4 and 5 we iterate through the list and write those lines in the opened file.</p>

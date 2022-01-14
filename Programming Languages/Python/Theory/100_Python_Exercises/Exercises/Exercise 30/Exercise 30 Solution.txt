@@ -1,0 +1,37 @@
+Question:  Why do you get an error and how would you fix it?
+
+def foo(a=2, b):
+    return a + b
+
+
+Answer : We get an error message like : "Syntax Error : non - default argument follows default arguments
+
+Example 1 : 
+
+def foo(a=2, b):
+    return a + b
+
+Now if I call this function like:
+
+foo(5) --> then python will get confuse and it will understand that for which variable I'm passing values
+               whether it is a or b.
+
+Example 2 : 
+
+def foo(b, a=2):
+    return a + b
+
+Now if I call this function like:
+
+foo(5) --> then it will return value that is 7 because now we're passing value for variable b not a and python
+               will take 5 as value of b and 2 as default value of a.
+
+Example 3 : 
+
+def foo(b, a=2):
+    return a + b
+
+Now if I call this function like:
+
+foo(5, 4) --> Then it will return value that is 9 because first it will 5 as a value of b and 4 as a value
+                  of a and then it will return the sum value.

@@ -1,0 +1,57 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2017-01-03_12-27-37-e188e6a2f9fe020d431a90c33d185aad/2%20points.png"></figure><p><strong><u>Exercise for reference</u>: </strong></p>
+
+<p>Why is there an error in the code and how would you fix it?</p>
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">def foo(a, b):
+    print(a + b)
+
+x = foo(2, 3) * 10</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><u><strong>Answer</strong></u><strong>: </strong></p>
+
+
+
+
+
+<p>Line 4 throws a TypeError because Python cannot multiply a None type object with an integer. The function output is what produces a None object because the function definition is not returning anything. Fix it by using <code>return</code>  instead of <code>print</code> :</p>
+
+
+
+
+
+<pre class="prettyprint linenums">def foo(a, b):
+    return a + b
+
+x = foo(2, 3) * 10</pre>
+
+
+
+
+
+
+
+
+
+
+
+<p><br></p>

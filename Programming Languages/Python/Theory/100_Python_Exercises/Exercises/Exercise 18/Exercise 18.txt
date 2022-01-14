@@ -1,0 +1,9 @@
+Exercise for reference: 
+
+d = {"Name": "John", "Surname": "Smith"}
+print(d["Smith"])
+
+Question : Here I'll get a key error after running above code so, you need to find why am I getting this error?
+Also how can I access the surname "Smith"?
+
+Hint: A KeyError always means there is no such given key in the dictionary

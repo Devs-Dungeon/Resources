@@ -1,0 +1,3 @@
+It will show an error : "name" c is not defined.
+Just becuase we did not declare a variable "c" and thus we didn't assign any value into it.
+So, after comparing b with c it throws an error.

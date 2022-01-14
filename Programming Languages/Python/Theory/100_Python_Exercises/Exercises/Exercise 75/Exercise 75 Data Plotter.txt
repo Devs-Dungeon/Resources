@@ -1,0 +1,1 @@
+Plot the data in the file provided through the URL http://www.pythonhow.com/data/sampledata.txt

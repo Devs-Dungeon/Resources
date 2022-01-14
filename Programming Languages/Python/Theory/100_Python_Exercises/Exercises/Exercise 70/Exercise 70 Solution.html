@@ -1,0 +1,64 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2017-01-03_14-37-59-2661683515d2cc203fa3a32ef34868c8/3%20points.png"></figure><p><strong><u>Exercise for reference</u>: </strong></p>
+
+<p>Print out the text of this file <a href="http://www.pythonhow.com/data/universe.txt" rel="nofollow" target="_blank">http://www.pythonhow.com/data/universe.txt</a>. Please don't manually download the file. Let Python do all the work.<br></p>
+
+
+
+
+
+
+
+
+
+
+
+<p><u><strong>Answer:</strong><strong> </strong></u></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">import requests
+response = requests.get("http://www.pythonhow.com/data/universe.txt")
+text = response.text
+print(text)</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation</u></strong>:<br></p>
+
+
+
+
+
+
+
+
+
+
+
+<p>We're using the <code>get </code> method of the <code>requests </code> library here which produces a <code>response </code> object in line 2. Then, in line 3 we apply the text property to that response object to get the text of the loaded webpage.</p>

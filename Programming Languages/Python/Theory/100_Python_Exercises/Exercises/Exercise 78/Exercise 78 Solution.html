@@ -1,0 +1,77 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com/redactor/2016-12-25_21-49-23-6407066f3d4c3f5257beb403b6579a26/2%20points.png"></figure>
+
+<p><strong><u>Exercise for reference</u>: </strong></p>
+
+
+
+
+
+
+
+
+
+
+
+<p>Create a program that generates a password of 6 random alphanumeric characters.</p>
+
+
+
+
+
+
+
+
+
+<p><u><strong>Answer:</strong><strong> </strong></u><br></p>
+
+
+
+
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">import random
+
+characters = "abcdefghijklmnopqrstuvwxyz01234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&amp;*()?"
+chosen = random.sample(characters, 6)
+password = "".join(chosen)
+print(password)
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation</u></strong>:</p>
+
+
+
+
+
+
+
+
+
+
+
+<p>We're importing the <code>random </code> module and using its <code>sample </code> method which picks 6 random items from the <code>characters </code> sequence. The items are stored in list <code>chosen</code> . Then we use a string <code>join </code> method to join the list items to a string.</p>

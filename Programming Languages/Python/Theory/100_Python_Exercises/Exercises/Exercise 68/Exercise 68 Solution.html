@@ -1,0 +1,48 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2017-01-03_14-33-54-43a9278102d7bf4bf16bc5265a154787/4%20points.png"></figure>
+
+<p><strong><u>Exercise for reference</u>:&nbsp;</strong></p>
+
+<p>Create an English to Portuguese translation&nbsp;program.</p>
+
+
+
+
+
+<p>The program&nbsp;takes a word from the&nbsp;user as input&nbsp;and translates it&nbsp;using the following dictionary as a vocabulary&nbsp;source.&nbsp;In addition, return the message "We couldn't find that word!" when the user enters a word that is not in the dictionary. <strong>Also</strong>, make the program non case-sensitive meaning that for example, both&nbsp;<em>earth</em>&nbsp;and&nbsp;<em>Earth&nbsp;</em>should return the translation correctly for that word.</p>
+
+
+
+
+
+<p><u><strong>Answer:</strong><strong>&nbsp;</strong></u></p>
+
+
+
+
+
+<pre class="prettyprint linenums">d = dict(weather = "clima", earth = "terra", rain = "chuva")
+def vocabulary(word):
+    try:
+        return d[word]
+    except KeyError:
+        return "We couldn't find that word!"
+
+word = input("Enter word: ").lower()
+print(vocabulary(word))
+</pre>
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation</u></strong>:</p>
+
+
+
+
+
+<p>As you see we are converting all the characters of the string to lowercase as soon as we receive the input from the user. Then we simply pass the lowercase version of the string to the dictionary.</p>

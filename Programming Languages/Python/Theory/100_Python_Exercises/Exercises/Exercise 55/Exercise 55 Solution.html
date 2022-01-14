@@ -1,0 +1,80 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2017-01-03_13-29-48-f87eecbf749362359c6ac8c3d031f4b7/3%20points.png"></figure><p><strong><u>Exercise for reference</u>: </strong></p>
+
+<p>Please add a new employee to the dictionary.</p>
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">d = {"employees":[{"firstName": "John", "lastName": "Doe"},
+                {"firstName": "Anna", "lastName": "Smith"},
+                {"firstName": "Peter", "lastName": "Jones"}],
+"owners":[{"firstName": "Jack", "lastName": "Petter"},
+          {"firstName": "Jessy", "lastName": "Petter"}]}</pre>
+
+
+
+
+
+
+
+
+
+
+
+<p><u><strong>Answer:</strong><strong> </strong></u></p>
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">d["employees"].append(dict(firstName = "Albert", lastName = "Bert"))
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation</u></strong>:</p>
+
+
+
+
+
+
+
+<p><code>d['employees']</code>  returns this list:</p>
+
+
+
+
+
+<pre class="prettyprint linenums">[{"firstName": "John", "lastName": "Doe"},
+ {"firstName": "Anna", "lastName": "Smith"},
+ {"firstName": "Peter", "lastName": "Jones"}]</pre>
+
+
+
+
+
+
+
+
+
+
+
+<p>Then <code>d["employees"].append(dict(firstName = "Albert", lastName = "Bert"))</code>  appends a new item to the list. This item happens to be a new dictionary.</p>

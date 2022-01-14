@@ -1,0 +1,17 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2017-01-03_12-59-19-40a77ca2333be33f337dbec38a01fd31/3%20points.png"></figure><p><strong>Exercise for reference: </strong></p><p>Create a function that takes a text file as input and returns the number of words contained in the text file. Please take into consideration that some words can be separated by a comma with no space. For example "<em>Hi,it's me."</em> would need to be counted as three words. For your convenience, you can use the text file in the attachment.</p><p><strong>Answer 1: </strong></p><pre class="prettyprint linenums">def count_words(filepath):
+    with open(filepath, 'r') as file:
+        text = file.read()
+    text = text.replace(",", " ")
+    string_list = text.split(" ")
+    return len(string_list)
+
+print(count_words("words2.txt"))</pre><p><strong>Explanation 1</strong>:<br></p><p>This solution is like the solution of the previous exercise with the difference that before splitting we are replacing all commas with a space which will let the split method count the number of words.</p><p><strong>Answer 2: </strong></p><pre class="prettyprint linenums">import re
+
+def count_words_re(filepath):
+    with open(filepath, 'r') as file:
+        text = file.read()
+    string_list = re.split(",| ", text)
+    return len(string_list)
+
+print(count_words_re("words2.txt"))
+</pre><p><strong>Explanation 2</strong>:</p><p>This alternative solution uses the built-in <code>re</code>  module which provides regular expression matching operations. We're using the split method of that module and the expression <code>",| "</code> is meant to replace commas with spaces. Using methods from the <code>re</code>  module can be more appropriate than Python built-in methods when string operations are complicated. However, for this simple scenario the <code>re </code> module could be skipped.</p>

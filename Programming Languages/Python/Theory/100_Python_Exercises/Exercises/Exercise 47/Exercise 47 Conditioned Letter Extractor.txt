@@ -1,0 +1,7 @@
+Write a script that extracts letters from files if letters are contained in "python" and puts the letters in a list
+
+Expected Output :
+
+["h", "n", "o", "p", "t", "y"]
+
+Hint: Like the previous exercise, but here you need to add a conditional inside the loop

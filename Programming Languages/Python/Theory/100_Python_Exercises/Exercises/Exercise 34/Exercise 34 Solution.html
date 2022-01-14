@@ -1,0 +1,96 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2017-01-03_12-49-24-9e4c128f0b6b7da1fcddbc6f6bcab07c/2%20points.png"></figure><p><strong><u>Exercise for reference</u>: </strong></p>
+
+<p>The following script throws a <code>NameError</code>  in the last line saying that <code>c</code>  is not defined. Please fix the <strong>function</strong> so that there is no error and the last line is able to print out the value of <code>c</code>  (i.e. <code>1</code> ).</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">def foo(): 
+    c = 1 
+    return c 
+foo() 
+print(c)</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><u><strong>Answer</strong></u><strong>: </strong><br></p>
+
+
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">def foo():
+    global c
+    c = 1 
+    return c 
+foo() 
+print(c)</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation</u></strong>:</p>
+
+
+
+
+
+
+
+
+
+
+
+<p>Adding <code>global c</code>  fixes the code. That line makes available name <code>c</code>  in the global namespace. Therefore,  <code>print</code> is able to access variable <code>c</code> .</p>

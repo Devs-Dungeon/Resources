@@ -1,0 +1,27 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com/redactor/2016-12-27_10-30-36-2aaeaf906606665bb2c95e2dea521257/4%20points.png"></figure>
+
+<p><strong><u>Exercise for reference</u>: </strong></p>
+
+
+
+
+
+
+
+<p>Create a web app with Flask that lets the user submit a username and a password. The app then checks if the username exists in a text file, and it also checks if the password contains at least one number, one uppercase letter and it is at least 5 characters long.</p>
+
+
+
+
+
+
+
+<p><u><strong>Answer:</strong><strong> </strong></u></p><p><em>Please find the code attached in the resources tab. </em></p><p><em></em><strong><u>Explanation</u></strong>:</p>
+
+
+
+
+
+
+
+<p>We have two while loops here which we got from exercise 81. The difference is instead of getting input through an input function, we're getting input from the html form with <code>usr = request.form['username']</code> . Then, if that user exists in the text file, we insert the message "<em>Username exists</em>" in the HTML page and we render the HTML form again. The same goes for the password.</p>

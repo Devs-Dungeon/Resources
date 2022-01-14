@@ -1,0 +1,14 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2017-01-03_13-13-08-e00eb4622ced7ca270f10e4cffc44ead/3%20points.png"></figure><p><strong>Exercise for reference: </strong></p><p>Create a script that iterates through text files and checks if strings <em>p, y, t, h, o</em>, or <em>n</em> are found in the content of the text file. If any of those strings is found, append that string to a list.</p><p><strong>Answer: </strong><br></p><pre class="prettyprint linenums">import glob
+
+letters = []
+file_list = glob.iglob("letters/*.txt")
+check = "python"
+
+for filename in file_list:
+    with open(filename,"r") as file:
+        letter = file.read().strip("\n")
+    if letter in check:
+        letters.append(letter)
+
+print(letters)
+</pre><p><strong>Explanation</strong>:</p><p>The glob module here helps to generate a list of text files. Then we iterate through that list and read each file inside the loop, strip "\n" characters and then check if the letter extracted from the file is in string "python" and we append that letter if it is.</p>

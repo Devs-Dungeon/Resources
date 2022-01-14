@@ -1,0 +1,60 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2017-01-03_13-28-51-1312ed8c40055530a08f34ea43415dd8/2%20points.png"></figure><p><strong><u>Exercise for reference</u>: </strong></p>
+
+<p>Please update the dictionary by changing the last name of the second employee from Smith to Smooth or whatever takes your fancy.</p>
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">d = {"employees":[{"firstName": "John", "lastName": "Doe"},
+                {"firstName": "Anna", "lastName": "Smith"},
+                {"firstName": "Peter", "lastName": "Jones"}],
+"owners":[{"firstName": "Jack", "lastName": "Petter"},
+          {"firstName": "Jessy", "lastName": "Petter"}]}</pre>
+
+
+
+
+
+
+
+
+
+
+
+<p><u><strong>Answer:</strong><strong> </strong></u></p>
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">d['employees'][1]['lastName'] = "Smooth"
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation</u></strong>:</p>
+
+
+
+
+
+
+
+<p>On the left side of the assignment operator we are accessing <code>Smith</code>  as we did in the previous exercise. Then using the assignment operator we simply assign a new string to that item.</p>

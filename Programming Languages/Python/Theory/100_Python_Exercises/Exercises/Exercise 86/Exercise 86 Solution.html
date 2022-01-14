@@ -1,0 +1,87 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2016-12-26_11-15-26-458f191c316a5ae62277f661ec939d1f/4%20points.png"></figure>
+
+<p><strong><u>Exercise for reference</u>:&nbsp;</strong></p>
+
+
+
+
+
+
+
+<p>Please take a look at the following list:</p>
+
+
+
+
+
+
+
+
+
+<p><code>checklist = ["Portugal", "Germany", "Munster", "Spain"]</code>&nbsp;
+</p>
+
+
+
+
+
+
+
+
+
+<p>One of the items is not a country. Please use Python and the file containing the&nbsp;list of countries (attached) as&nbsp;data source&nbsp;to filter out the&nbsp;<code>checklist</code>&nbsp;of non-country items. Once you have filtered out&nbsp;<code>checklist</code>&nbsp;, then print it out.</p>
+
+
+
+
+
+
+
+<p><u><strong>Answer:</strong><strong>&nbsp;</strong></u><br></p>
+
+
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">checklist = ["Portugal", "Germany", "Munster", "Spain"]
+
+with open("countries-clean.txt", "r") as file:
+    content = file.readlines()
+
+content = [i.rstrip('\n') for i in content]
+checked = [i for i in content if i in checklist]
+
+print(checked)
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation</u></strong>:</p>
+
+
+
+
+
+
+
+
+
+<p>We're opening our file data source and loading it in Python as a list in <code>content</code>. Then we clean out that list of break lines in line 6. Then, in line 7 we check if the items of <code>content </code>&nbsp;are in <code>checklist</code>&nbsp;, and if they are we leave them in the list, otherwise, we remove them. So, we end up with only the three matches.</p>

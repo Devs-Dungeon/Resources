@@ -1,0 +1,76 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com:443/redactor/2016-12-27_09-31-11-d0fca23bf1a0d2086d34a85ce1398f53/2%20points.png"></figure>
+
+<p><strong><u>Exercise for reference</u>: </strong></p>
+
+
+
+
+
+
+
+
+
+<p>Please download the attached ZIP file and extract its files in a folder. Then, write a script that counts and prints out the number of <em>.py</em> files in that folder.</p>
+
+
+
+
+
+
+
+
+
+
+
+<p><u><strong>Answer:</strong><strong> </strong></u>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">import glob
+
+file_list=glob.glob1("files","*.py")
+print(len(file_list))
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation</u></strong>:</p>
+
+
+
+
+
+
+
+
+
+
+
+<p>We're using <code>glob</code>  which is a standard Python library that finds pathnames matching a specified pattern. From <code>glob</code>  we're using <code>glob1 </code> which takes a directory name as first argument and a pattern which in our case is <code>*.py</code>  which returns all the files starting with whatever and ending with <em>.py</em> in the <code>files </code> directory.</p>

@@ -1,0 +1,53 @@
+<figure><img src="https://udemy-images.s3.amazonaws.com/redactor/2016-12-27_09-31-11-d0fca23bf1a0d2086d34a85ce1398f53/2%20points.png"></figure>
+
+<p><strong><u>Exercise for reference</u>: </strong></p>
+
+
+
+
+
+
+
+<p>Please download the attached ZIP file. Inside the ZIP file there's a directory named <em>subdirs</em>. That directory contains other directories inside. Please write a script that counts the number of <em>.py</em> files contained inside <em>subdirs</em> and all its sub-directories.<br></p>
+
+
+
+
+
+
+
+<p><u><strong>Answer:</strong><strong> </strong></u></p>
+
+
+
+
+
+
+
+<pre class="prettyprint linenums">import glob
+
+file_list = glob.glob("subdirs/**/*.py", recursive=True)
+print(len(file_list))
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong><u>Explanation</u></strong>:</p>
+
+
+
+
+
+
+
+<p>We're using <code>glob.glob</code>  in contrast to <code>glob.glob1</code> , gets a pathname pattern and a <code>recursive</code>  argument which indicates whether you want to search sub-directories or not.</p>
