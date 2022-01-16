@@ -106,16 +106,16 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 
 ## 🙏 Credits
 This repository is made using various GitHub Repos and free resources available online. The aim of this repository is to organize almost every top resources available for free at one place. Some of the notable GitHub repos which helped are:
-- @zero-to-mastery
-- @bradtraversy
-- @josephmisiti
-- @dipakkr
-- @CodeChef-VIT
-- @jonathan-bower
-- @instillai
-- @gopherdata
-- @lauragift21
-- @endymecy
+- [@zero-to-mastery](https://github.com/zero-to-mastery)
+- [@bradtraversy](https://github.com/bradtraversy)
+- [@josephmisiti](https://github.com/josephmisiti)
+- [@dipakkr](https://github.com/dipakkr)
+- [@CodeChef-VIT](https://github.com/CodeChef-VIT)
+- [@jonathan-bower](https://github.com/jonathan-bower)
+- [@instillai](https://github.com/instillai)
+- [@gopherdata](https://github.com/gopherdata)
+- [@lauragift21](https://github.com/lauragift21)
+- [@endymecy](https://github.com/endymecy)
 
 p.s- If your name is not mentioned above but you find your work here, feel free to open a PR on this repository.
 
