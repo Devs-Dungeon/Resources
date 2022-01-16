@@ -104,6 +104,21 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+## 🙏 Credits
+This repository is made using various GitHub Repos and free resources available online. The aim of this repository is to organize almost every top resources available for free at one place. Some of the notable GitHub repos which helped are:
+- @zero-to-mastery
+- @bradtraversy
+- @josephmisiti
+- @dipakkr
+- @CodeChef-VIT
+- @jonathan-bower
+- @instillai
+- @gopherdata
+- @lauragift21
+- @endymecy
+
+p.s- If your name is not mentioned above but you find your work here, feel free to open a PR on this repository.
+
 ## 🔗 Connect with Us
 [<img align="left" alt="Subham | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />][mail]
 [<img align="left" alt="Subham | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />][linkedin]
