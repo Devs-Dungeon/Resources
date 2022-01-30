@@ -68,6 +68,7 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
    - [Python for ML](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp)
 
  2) Maths for ML
+ - [Maths background for ML](https://canvas.cmu.edu/courses/603/assignments/syllabus)
  - [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
  - [Partial Derivatives](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
  - [Derivatives](https://www.khanacademy.org/math/calculus-1/cs1-derivatives-definition-and-basic-rules)
