@@ -120,13 +120,13 @@ This repository is made using various GitHub Repos and free resources available 
 p.s- If your name is not mentioned above but you find your work here, feel free to open a PR on this repository.
 
 ## 🔗 Connect with Us
-[<img align="left" alt="Subham | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />][mail]
-[<img align="left" alt="Subham | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />][linkedin]
-[<img align="left" alt="Subham | Discord" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />][twitter]
-[<img align="left" alt="Subham | Discord" width="92px" src="https://img.shields.io/badge/-Discord-000000?logo=discord&Color=0A66C2&style=flat-square" />][discord]
 
-[mail]: mailto:devs.dungeon.community@gmail.com
-[linkedin]: https://www.linkedin.com/company/devs-dungeon/
-[twitter]: https://twitter.com/devs_dungeon
-[discord]: https://discord.gg/ceMXzhfaka
+
+   [<img alt="DEVs Dungeon | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:devs.dungeon.community@gmail.com)
+    [<img alt="DEVs Dungeon | Discord" width="92px" src="https://img.shields.io/badge/-Discord-000000?logo=discord&Color=0A66C2&style=flat-square" />](https://discord.gg/ceMXzhfaka)
+    [<img alt="DEVs Dungeon | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/company/devs-dungeon/)
+    [<img alt="DEVs Dungeon | Facebook" width="100px" src="https://img.shields.io/badge/-Facebook-000000?logo=facebook&Color=0A66C2&style=flat-square" />](https://www.facebook.com/devs.dungeon/)
+    [<img alt="DEVs Dungeon | Instagram" width="100px" src="https://img.shields.io/badge/-Instagram-000000?logo=instagram&Color=0A66C2&style=flat-square" />](https://www.instagram.com/devs.dungeon/)
+    [<img alt="DEVs Dungeon | Twitter" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/devs_dungeon)
+
 
