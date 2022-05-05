@@ -57,7 +57,7 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 
 - [Abdul Bari: YouTubeChannel for Algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=2&t=0s)
 
-- [Data Structures and algorithms](https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s)
+- [Java + DSA + Interview Preparation Course by Kunal Kushwaha](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 
 - [Data Structures and algorithms Course](https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9)
 
@@ -98,5 +98,7 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 - [Coursera](https://www.coursera.org/specializations/data-structures-algorithms):Data Structures and Algorithms Specialization offered by UC San Diego via Coursera.
 
 - [TutorialsPoint: Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+
+- [Java + DSA + Interview Preparation Course by Kunal Kushwaha](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) 
 
 - [Data Structures and Algorithms](https://www.pepcoding.com/resources/) Data Structure and Algorithms 1200 practice questions with solution videos.
