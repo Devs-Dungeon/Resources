@@ -20,82 +20,82 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 # Top 50 YouTube Channels to Follow
 
 ## Top 10 in Technology
-|Sr. No. | Channel | No. of Subscribers |
-| --- | ------------- | ----- |
-|1 | [MIT OpenCourseWare](https://www.youtube.com/user/MIT/about) | 2.1M |
-|2 | [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/about) | 1.32M |
-|3 | [BostonDynamics](https://www.youtube.com/user/BostonDynamics/about) | 1.55M |
-|4 | [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/about) | 1.1M |
-|5 | [Computerphile](https://www.youtube.com/user/Computerphile/about) | 1.47M |
-|6 | [sentdex](https://www.youtube.com/user/sentdex/about) | 734K |
-|7 | [Nptel](https://www.youtube.com/user/nptelhrd/about) | 1.57M |
-|8 | [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q/about) | 1.63M |
-|9 | [NumberPhile](https://www.youtube.com/user/numberphile/about) | 3.04M |
-|10 | [CppCon](https://www.youtube.com/user/CppCon/about) | 62.9K |
+| Sr. No. | Channel                                                                            | No. of Subscribers |
+| ------- | ---------------------------------------------------------------------------------- | ------------------ |
+| 1       | [MIT OpenCourseWare](https://www.youtube.com/user/MIT/about)                       | 2.1M               |
+| 2       | [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/about) | 1.32M              |
+| 3       | [BostonDynamics](https://www.youtube.com/user/BostonDynamics/about)                | 1.55M              |
+| 4       | [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/about)          | 1.1M               |
+| 5       | [Computerphile](https://www.youtube.com/user/Computerphile/about)                  | 1.47M              |
+| 6       | [sentdex](https://www.youtube.com/user/sentdex/about)                              | 734K               |
+| 7       | [Nptel](https://www.youtube.com/user/nptelhrd/about)                               | 1.57M              |
+| 8       | [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q/about)      | 1.63M              |
+| 9       | [NumberPhile](https://www.youtube.com/user/numberphile/about)                      | 3.04M              |
+| 10      | [CppCon](https://www.youtube.com/user/CppCon/about)                                | 62.9K              |
 
 ---
 
 ## Top 10 in Startup
-|Sr. No. | Channel | No. of Subscribers |
-| --- | -------------- | ------ |
-|1 | [TED](https://www.youtube.com/user/TEDtalksDirector/about) | 15M |
-|2 | [Tai Loapez](https://www.youtube.com/user/tailopezofficial/about) | 1.31M |
-|3 | [This Week in Startups](https://www.youtube.com/user/ThisWeekIn/about) | 131K |
-|4 | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about) | 274K |
-|5 | [How to Start a Startup](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/feed) | 100K |
-|6 | [Tim Ferriss](https://www.youtube.com/user/masterlock77/about) | 486K |
-|7 | [Naval Ravikant](https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg/about) | 39.8K |
-|8 | [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/about) | 198K |
-|9 | [Startup Authority](https://www.youtube.com/channel/UCwHZNWLHHT9RlW4F80a9byQ/about) | 634K |
-|10 | [Startup Grind](https://www.youtube.com/user/StartupGrind/about) | 45.1K |
+| Sr. No. | Channel                                                                                 | No. of Subscribers |
+| ------- | --------------------------------------------------------------------------------------- | ------------------ |
+| 1       | [TED](https://www.youtube.com/user/TEDtalksDirector/about)                              | 15M                |
+| 2       | [Tai Loapez](https://www.youtube.com/user/tailopezofficial/about)                       | 1.31M              |
+| 3       | [This Week in Startups](https://www.youtube.com/user/ThisWeekIn/about)                  | 131K               |
+| 4       | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about)              | 274K               |
+| 5       | [How to Start a Startup](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/feed) | 100K               |
+| 6       | [Tim Ferriss](https://www.youtube.com/user/masterlock77/about)                          | 486K               |
+| 7       | [Naval Ravikant](https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg/about)        | 39.8K              |
+| 8       | [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/about)          | 198K               |
+| 9       | [Startup Authority](https://www.youtube.com/channel/UCwHZNWLHHT9RlW4F80a9byQ/about)     | 634K               |
+| 10      | [Startup Grind](https://www.youtube.com/user/StartupGrind/about)                        | 45.1K              |
 
 ---
 
 ## Top 10 in Design
-|Sr. No. | Channel | No. of Subscribers |
-| --- | -------------- | ----- |
-|1 | [tutvid](https://www.youtube.com/user/tutvid/about) | 936K |
-|2 | [The Futur](https://www.youtube.com/user/TheSkoolRocks/about) | 591K |
-|3 | [Spoon Graphics](https://www.youtube.com/channel/UC_mkC8ChfzCJcuSqSMwvUWw/about) | 300K |
-|4 | [Will Paterson](https://www.youtube.com/user/breakdesignsco/about) | 352K |
-|5 | [Skillshare](https://www.youtube.com/user/Skillshare/about) | 189K |
-|6 | [Yes I am a Designer](https://www.youtube.com/user/perhiniak/about) | 191K |
-|7 | [Gigantic](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w/about) | 157K |
-|8 | [Matt Borchert](https://www.youtube.com/user/ovenrude/about) | 66K |
-|9 | [CharliMarieTV](https://www.youtube.com/user/charlimarieTV/about) | 141K |
-|10 | [Mike Locke](https://www.youtube.com/user/mlwebco/about) | 90.8K |
+| Sr. No. | Channel                                                                          | No. of Subscribers |
+| ------- | -------------------------------------------------------------------------------- | ------------------ |
+| 1       | [tutvid](https://www.youtube.com/user/tutvid/about)                              | 936K               |
+| 2       | [The Futur](https://www.youtube.com/user/TheSkoolRocks/about)                    | 591K               |
+| 3       | [Spoon Graphics](https://www.youtube.com/channel/UC_mkC8ChfzCJcuSqSMwvUWw/about) | 300K               |
+| 4       | [Will Paterson](https://www.youtube.com/user/breakdesignsco/about)               | 352K               |
+| 5       | [Skillshare](https://www.youtube.com/user/Skillshare/about)                      | 189K               |
+| 6       | [Yes I am a Designer](https://www.youtube.com/user/perhiniak/about)              | 191K               |
+| 7       | [Gigantic](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w/about)       | 157K               |
+| 8       | [Matt Borchert](https://www.youtube.com/user/ovenrude/about)                     | 66K                |
+| 9       | [CharliMarieTV](https://www.youtube.com/user/charlimarieTV/about)                | 141K               |
+| 10      | [Mike Locke](https://www.youtube.com/user/mlwebco/about)                         | 90.8K              |
 
 ---
 
 ## Top 10 in Business
-|Sr. No. | Channel | No. of Subscribers |
-| --- | -------------- | ----- |
-|1 | [Business Insider](https://www.youtube.com/user/businessinsider/about) | 2.09M |
-|2 | [GaryVee](https://www.youtube.com/user/GaryVaynerchuk/about) | 2.33M |
-|3 | [Entrepreneur](https://www.youtube.com/user/EntrepreneurOnline/about) | 512K |
-|4 | [Brian Tracy](https://www.youtube.com/user/BrianTracySpeaker/about) | 898K |
-|5 | [Marie Forleo](https://www.youtube.com/user/marieforleo/about) | 590K |
-|6 | [Stanford Business](https://www.youtube.com/user/stanfordbusiness/about) | 745K |
-|7 | [Grant Cardone](https://www.youtube.com/user/GrantCardone/about) | 1.2M |
-|8 | [Young Entrepreneurs Forum](https://www.youtube.com/channel/UCydShVfAub9TSmL1N4BTlGQ/about) | 548K |
-|9 | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about) | 274K |
-|10 | [Business Casual](https://www.youtube.com/channel/UC_E4px0RST-qFwXLJWBav8Q/about) | 694K |
+| Sr. No. | Channel                                                                                     | No. of Subscribers |
+| ------- | ------------------------------------------------------------------------------------------- | ------------------ |
+| 1       | [Business Insider](https://www.youtube.com/user/businessinsider/about)                      | 2.09M              |
+| 2       | [GaryVee](https://www.youtube.com/user/GaryVaynerchuk/about)                                | 2.33M              |
+| 3       | [Entrepreneur](https://www.youtube.com/user/EntrepreneurOnline/about)                       | 512K               |
+| 4       | [Brian Tracy](https://www.youtube.com/user/BrianTracySpeaker/about)                         | 898K               |
+| 5       | [Marie Forleo](https://www.youtube.com/user/marieforleo/about)                              | 590K               |
+| 6       | [Stanford Business](https://www.youtube.com/user/stanfordbusiness/about)                    | 745K               |
+| 7       | [Grant Cardone](https://www.youtube.com/user/GrantCardone/about)                            | 1.2M               |
+| 8       | [Young Entrepreneurs Forum](https://www.youtube.com/channel/UCydShVfAub9TSmL1N4BTlGQ/about) | 548K               |
+| 9       | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about)                  | 274K               |
+| 10      | [Business Casual](https://www.youtube.com/channel/UC_E4px0RST-qFwXLJWBav8Q/about)           | 694K               |
 
 ---
 
 ## Top 10 in Finance
-|Sr. No. | Channel | No. of Subscribers |
-| --- | -------------- | ----- |
-|1 | [Bloomberg TV Markets and Finance](https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/about) | 413K |
-|2 | [Financial Education](https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ/about) | 354K |
-|3 | [MoneyTalks News](https://www.youtube.com/user/MoneyTalksNews/about) | 40.6K |
-|4 | [The Financial Diet](https://www.youtube.com/channel/UCSPYNpQ2fHv9HJ-q6MIMaPw/about) | 712K |
-|5 | [RICH TV LIVE](https://www.youtube.com/channel/UCrvJc8oOqtQf9MEs_UXsBMQ/about) | 21.8K |
-|6 | [Ryan Scribner](https://www.youtube.com/channel/UC3mjMoJuFnjYRBLon_6njbQ/about) | 471K |
-|7 | [Financial Times](https://www.youtube.com/user/FinancialTimesVideos/about) | 348K |
-|8 | [BeatTheBush](https://www.youtube.com/user/TheBeatTheBush/about) | 267K |
-|9 | [Finance Tube](https://www.youtube.com/user/FinanceTubebyVishalT/about) | 59.2K |
-|10 | [Corporate Finance Institute](https://www.youtube.com/channel/UCGtbVv_ACgV7difdVZ92NMw/about) | 66.4K |
+| Sr. No. | Channel                                                                                            | No. of Subscribers |
+| ------- | -------------------------------------------------------------------------------------------------- | ------------------ |
+| 1       | [Bloomberg TV Markets and Finance](https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/about) | 413K               |
+| 2       | [Financial Education](https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ/about)              | 354K               |
+| 3       | [MoneyTalks News](https://www.youtube.com/user/MoneyTalksNews/about)                               | 40.6K              |
+| 4       | [The Financial Diet](https://www.youtube.com/channel/UCSPYNpQ2fHv9HJ-q6MIMaPw/about)               | 712K               |
+| 5       | [RICH TV LIVE](https://www.youtube.com/channel/UCrvJc8oOqtQf9MEs_UXsBMQ/about)                     | 21.8K              |
+| 6       | [Ryan Scribner](https://www.youtube.com/channel/UC3mjMoJuFnjYRBLon_6njbQ/about)                    | 471K               |
+| 7       | [Financial Times](https://www.youtube.com/user/FinancialTimesVideos/about)                         | 348K               |
+| 8       | [BeatTheBush](https://www.youtube.com/user/TheBeatTheBush/about)                                   | 267K               |
+| 9       | [Finance Tube](https://www.youtube.com/user/FinanceTubebyVishalT/about)                            | 59.2K              |
+| 10      | [Corporate Finance Institute](https://www.youtube.com/channel/UCGtbVv_ACgV7difdVZ92NMw/about)      | 66.4K              |
 
 ---
 
@@ -154,6 +154,8 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 * [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) Mostly does React tutorial. High quality content (English)
 
 * [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA): Short videos about almost all modern tech like GraphQL, Fauna, React etc.
+
+* [Kunal Kushwaha](https://www.youtube.com/c/KunalKushwaha): Videos on Open-Source, DevOps, Computer Science, Data Structures and Algorithms, etc.
 
 * [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ): Different topics related to programming such as python, java, linux, etc. The channel doesn't feature many tutorials, however Kalle gives ideas, motivation and quality videos.
 
@@ -287,6 +289,8 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 - [mycodeschool](https://www.youtube.com/user/mycodeschool): MyCodeSchool is a channel for Learning Data structures, Programming Interview Questions, Algorithms, Recursion, Time Complexity Analysis, Mathematics for Programmers and pointers in c/c++.
 
 - [Apni Kaksha](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s): Apni kaksha is a channel for Learning Data structures, Programming Interview Questions, Algorithms, Recursion, Time Complexity Analysis, Mathematics for Programmers and pointers in c/c++ and all interview related stuffs.
+
+- [Kunal Kushwaha](https://www.youtube.com/c/KunalKushwaha): Clear interviews of top tier companies like Google off-campus, & get all the amazing opportunities. Get interview-ready with this course that has no prerequisites and is designed to make you an expert in solving easy to hard LeetCode problems with ease.
 
 - [Naresh i Technologies](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j): Naresh i Technologies is a channel to learn various programming languages and these video tutorials are used to learn and to be good at all the Data Structure Algorithms with their implementations in C programming language in a very clear manner.
 
