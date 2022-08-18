@@ -110,6 +110,7 @@ There are other DevOps roadmaps and learning plans out there. If you feel the on
 Name | Description
 :------|:------:
 [DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap) | DevOps skills roadmap. What to to learn at each step.
+[DevOps Roadmap](https://www.commclassroom.org/devops-roadmap) | A free, detailed DevOps roadmap with resources already provided.
 [DevOps 3 Weeks Plan](https://medium.com/@medineshkatwal/devops-3-week-plan-from-16-oct-2019-to-31st-oct-2019-af486e625f72) | Detailed plan on what to do at each day
 [How to Become a DevOps Engineer in Six Months?](https://spacelift.io/blog/how-to-become-devops-engineer) | Skills you need to become DevOps Engineer
 
@@ -141,7 +142,7 @@ Name | Description
 ### Programming
 
 Practicing DevOps without knowing programming is like eating cornflakes with ketchup - it's just doesn't makes sense (yes, my analogies are the worst).<br>
-Here is a list of some good sites to practice programming in general:
+Here is a list of some good sites to practice programming in general: 
 
 Name | Comments
 :------|:------:
