@@ -60,10 +60,11 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 |4 | [Will Paterson](https://www.youtube.com/user/breakdesignsco/about) | 352K |
 |5 | [Skillshare](https://www.youtube.com/user/Skillshare/about) | 189K |
 |6 | [Yes I am a Designer](https://www.youtube.com/user/perhiniak/about) | 191K |
-|7 | [Gigantic](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w/about) | 157K |
-|8 | [Matt Borchert](https://www.youtube.com/user/ovenrude/about) | 66K |
-|9 | [CharliMarieTV](https://www.youtube.com/user/charlimarieTV/about) | 141K |
-|10 | [Mike Locke](https://www.youtube.com/user/mlwebco/about) | 90.8K |
+|7 | [Canva](https://www.youtube.com/c/canva) | 176K |
+|8 | [Gigantic](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w/about) | 157K |
+|9 | [Matt Borchert](https://www.youtube.com/user/ovenrude/about) | 66K |
+|10 | [CharliMarieTV](https://www.youtube.com/user/charlimarieTV/about) | 141K |
+<!-- |11 | [Mike Locke](https://www.youtube.com/user/mlwebco/about) | 90.8K | -->
 
 ---
 
@@ -328,9 +329,11 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 ### Pentesting
 
 - [HackerSploit](https://m.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
+- [STOK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
 
 ### Capture the Flag
 
-- [liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): liveoverflow is a channel to help people start off with CTF challenges and competitions. It has tutorials on binary exploitation, reverse engineering, hardware security and AngularJS security. It also has walkthroughs for several 'pwnable.kr' challenges.
+- [liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): LiveOverFlow is a channel to help people start off with CTF challenges and competitions. It has tutorials on binary exploitation, reverse engineering, hardware security and AngularJS security. It also has walkthroughs for several 'pwnable.kr' challenges.
+- [John Hammond](https://www.youtube.com/c/JohnHammond010): John Hammond is a leading content creator on cybersecurity and penetration testing topics. John has CTF playlists on many challenges and rooms on TryHackMe and has explained all the steps. He also uploads knowledgeable videos on ethical hacking.
 
 **[Back To Top](#youtube-channels)**
