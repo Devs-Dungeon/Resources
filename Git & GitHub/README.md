@@ -50,6 +50,7 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 - [Udacity's Git Commit Style Guide](https://udacity.github.io/git-styleguide/): A very useful and simple style guide for git commit messages (as well as JavaScript, HTML5, and CSS3) as it informs everybody on the team – including your future self if you are a solo contributor – what specific changes were made, what type they were, and why.
 
 - [Learn Git Branching](https://learngitbranching.js.org/): A beautiful visual guide to learn simple and advanced Git.
+- [Open Source With Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna): All about Git/GitHub in one place
 
 ## Markdown
 
