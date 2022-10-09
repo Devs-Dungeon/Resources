@@ -31,6 +31,7 @@ Some of the operating systems used for cyber security and ethical hacking purpos
 - [Hack This Site](https://www.hackthissite.org/) – training ground for hackers including a community forum
 - [Hack This!!](https://www.hackthis.co.uk/) – challenges to practice cryptography, forensics, JavaScript, SQL, and more
 - [Root Me](https://www.root-me.org) – challenges to practice hacking skills
+- [Try Hack Me](https://www.tryhackme.com) - Cybersecurity training and CTF challenges
 
 ## :pushpin: Resources :closed_book:
 
