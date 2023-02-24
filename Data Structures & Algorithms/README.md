@@ -29,6 +29,7 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
     - [CS50 on HarvardX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - One of the best computer science courses available online (:heavy_dollar_sign: for certification)
     - [Codility](https://app.codility.com/programmers/) - Develop your coding skills with lessons to take part in challenges
     - [Zen of Programming](https://zen-of-programming.com/) - A frequently updated blog great for beginners and simplified references.
+    - [The Algorithms](https://the-algorithms.com) - A highly useful resource with 500+ well-documented algorithms with a built-in playground.
 
 - **Tutorials & Practice**
     - [Visual Algo](https://visualgo.net/en) - Understanding DS & Algo through animations.
