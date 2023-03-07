@@ -122,11 +122,11 @@ p.s- If your name is not mentioned above but you find your work here, feel free 
 ## 🔗 Connect with Us
 
 
-   [<img alt="DEVs Dungeon | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:devs.dungeon.community@gmail.com)
-    [<img alt="DEVs Dungeon | Discord" width="92px" src="https://img.shields.io/badge/-Discord-000000?logo=discord&Color=0A66C2&style=flat-square" />](https://discord.gg/ceMXzhfaka)
-    [<img alt="DEVs Dungeon | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/company/devs-dungeon/)
-    [<img alt="DEVs Dungeon | Facebook" width="100px" src="https://img.shields.io/badge/-Facebook-000000?logo=facebook&Color=0A66C2&style=flat-square" />](https://www.facebook.com/devs.dungeon/)
-    [<img alt="DEVs Dungeon | Instagram" width="100px" src="https://img.shields.io/badge/-Instagram-000000?logo=instagram&Color=0A66C2&style=flat-square" />](https://www.instagram.com/devs.dungeon/)
-    [<img alt="DEVs Dungeon | Twitter" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/devs_dungeon)
+   [<img alt="DEVs Dungeon | Mail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:devs.dungeon.community@gmail.com)
+    [<img alt="DEVs Dungeon | Discord" width="92px" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/ceMXzhfaka)
+    [<img alt="DEVs Dungeon | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/devs-dungeon/)
+    [<img alt="DEVs Dungeon | Facebook" width="100px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/devs.dungeon/)
+    [<img alt="DEVs Dungeon | Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/devs.dungeon/)
+    [<img alt="DEVs Dungeon | Twitter" width="92px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/devs_dungeon)
 
 
