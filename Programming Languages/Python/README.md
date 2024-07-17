@@ -88,7 +88,7 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 + <a href = "https://www.hackster.io/dexterindustries/give-your-raspberry-pi-robot-a-worm-brain-bc5cc1"> Code a Raspberry Pi to function as the brain of a robot</a>
 + <a href = "https://realpython.com/python-bitcoin-ifttt/"> Use Python to build a Bitcoin price notification service</a>
 + <a href = "https://runcode.ninja"> Programming CTF platform supporting multiple languages</a>
-+ <a href = "https://pythonium.net/"> Online toolbox for Python developers: Regex tester, formatter, and code checker.</a>
++ <a href = "https://pythonium.net/"> Online toolbox for Python developers: Regex tester, formatter, and code checker</a>
 
 ## 9. **Projects**
 + <a href ="https://github.com/shauryauppal/PyWhatsapp">PyWhatsapp | Whatsapp Automation </a>
