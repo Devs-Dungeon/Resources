@@ -1,10 +1,10 @@
-# Useful Resources for Developers
+# Useful Resources for Developers🧑‍💻
 
 [![Discord](https://img.shields.io/discord/865937470118297640.svg?logo=discord&colorB=5865F2)](https://discord.gg/GqzWmqDKzU)
 
 To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/Devs-Dungeon/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
 
-➤ If you find this **REPOSITORY** helpful, then do give it a `🌟` by pressing the topmost-right button 🤗
+➤ If you find this **REPOSITORY** helpful, then do give it a ⭐ by pressing the topmost-right button 🤗 to motivate us.
 
 ➤ To save a copy of this **REPOSITORY** to your own GitHub, click on <a href="https://github.com/Devs-Dungeon/Resources/edit/main/README.md"><kbd><b>Fork</b></kbd></a> on the top right of your screen 🤗
 
@@ -15,13 +15,13 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 - [**01-Link to Bootcamps, Platforms, Tools etc**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc): Miscellaneous links to Bootcamps, Podcasts, Tools, etc.
   - [**Articles**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc/Articles): List of articles on development.
   - [**Bootcamps**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc/Bootcamps): List of no upfront fee Coding Bootcamps.
-  - [**Podcasts**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc/Podcasts): A range of podcasts covering topics like coding, design, accessibility, JavaScript, and Mindset/Self-Development.
+  - [**Podcasts**](https://github.com/Devs-Dungeon/Resources/tree/main/01-Link%20to%20Bootcamps%2C%20Platforms%2C%20Tools%20etc/Podcasts): A range of podcasts covering topics like coding, design, accessibility, JavaScript and Mindset/Self-Development.
  
 - [**02-How to Contribute to this Repo**](https://github.com/Devs-Dungeon/Resources/tree/main/02-How%20to%20Contribute%20to%20this%20Repo): Want to contribute to this repo? Check it out to know how!
 
 - [**03-Coding for Kids**](https://github.com/Devs-Dungeon/Resources/blob/main/03-Coding%20for%20Kids/README.md): Encouraging skills for life.
 
-- [**04-YT Channels for Dev**](https://github.com/Devs-Dungeon/Resources/blob/main/04-YT%20Channels%20for%20Dev/README.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
+- [**04-YT Channels for Dev**](https://github.com/Devs-Dungeon/Resources/blob/main/04-YT%20Channels%20for%20Dev/README.md) Here's a list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
 
 - [**05-Best Free Courses**](https://github.com/Devs-Dungeon/Resources/tree/main/05-Best%20Free%20Courses): All top learning courses for free.
 
@@ -66,7 +66,7 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 
 - [**Game Development**](https://github.com/Devs-Dungeon/Resources/tree/main/Game%20Development): A page which lists out the resources which helps you go from zero to mastery in game development.
 
-- [**Git and GitHub**](https://github.com/Devs-Dungeon/Resources/tree/main/Git%20%26%20GitHub): Resources page on using Git and GitHub.
+- [**Git and GitHub**](https://github.com/Devs-Dungeon/Resources/tree/main/Git%20%26%20GitHub): Resources page on how to use Git and GitHub.
 
 - [**Hacking**](https://github.com/Devs-Dungeon/Resources/tree/main/Hacking): Complete list of Hacking resources.
 
@@ -80,9 +80,10 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 
 - [**OOPS & OS**](https://github.com/Devs-Dungeon/Resources/tree/main/OOPS%20%26%20Operating%20Systems): A list of resources on Object Oriented Programming (OOPs) & Operating Systems (OS).
 
-- [**Programming Languages**](https://github.com/Devs-Dungeon/Resources/tree/main/Programming%20Languages): A list of resources on all the programming languages like Arduino, C, C++, C#, Python, Java, JavaScript, HTML, CSS, PHP, SQL, etc. along with Books & Practice Resources on it.
-  - [01.Books](https://github.com/Devs-Dungeon/Resources/tree/main/Programming%20Languages/01.Books)
-  - [02.Practice Resources](https://github.com/Devs-Dungeon/Resources/tree/main/Programming%20Languages/02.Practice%20Resources)
+- [**Programming Languages**](https://github.com/Devs-Dungeon/Resources/tree/main/Programming%20Languages): A list of resources on all the programming languages like Arduino, C, C++, C#, Python, Java, JavaScript, HTML, CSS, PHP, SQL, etc. along with Books & Practice Resources in it.
+  - [01.Books](https://github.com/Devs-Dungeon/Resources/tree/main/Programming%20Languages/01.Books) Some great 📚 books to help you get started.
+
+  - [02.Practice Resources](https://github.com/Devs-Dungeon/Resources/tree/main/Programming%20Languages/02.Practice%20Resources) Test your knowledge💯
 
 - [**Robotics**](https://github.com/Devs-Dungeon/Resources/tree/main/Robotics): A list of resources on Robotics & ROS.
 
@@ -100,7 +101,7 @@ To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/De
 
 - First time contributing to open source? Awesome! Read more about the process in [**Contributing to GitHub**](https://github.com/Devs-Dungeon/Resources/tree/main/02-How%20to%20Contribute%20to%20this%20Repo).
 
-- [**List of Contributors**](https://github.com/Devs-Dungeon/Resources/blob/main/02-How%20to%20Contribute%20to%20this%20Repo/CONTRIBUTORS.md): A page showing the GitHub usernames of all who have contributed to this open-source project! Make sure to add yourself and submit a pull request if you've contributed.
+- [**List of Contributors**](https://github.com/Devs-Dungeon/Resources/blob/main/02-How%20to%20Contribute%20to%20this%20Repo/CONTRIBUTORS.md): A page showing the GitHub usernames of all the prople who have contributed to this open-source project! Make sure to add yourself and submit a pull request if you've contributed❗
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -129,4 +130,5 @@ p.s- If your name is not mentioned above but you find your work here, feel free 
     [<img alt="DEVs Dungeon | Instagram" width="100px" src="https://img.shields.io/badge/-Instagram-000000?logo=instagram&Color=0A66C2&style=flat-square" />](https://www.instagram.com/devs.dungeon/)
     [<img alt="DEVs Dungeon | Twitter" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/devs_dungeon)
 
-
+We love ❤️ you !
+#keepcontributing
